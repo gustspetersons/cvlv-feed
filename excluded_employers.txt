@@ -1,0 +1,3 @@
+# Employers whose ads never reach the feed. One name per line; a line matches
+# any employer whose cv.lv name contains it (case-insensitive), so "Betby"
+# also catches "Betby SIA". Lines starting with # are ignored.
