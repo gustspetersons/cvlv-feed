@@ -1,5 +1,74 @@
 [
  {
+  "id": 1665187,
+  "positionTitle": "Sertificēts būvdarbu vadītājs/ -a (ELT/ EST)",
+  "employerName": "FIMA SIA",
+  "salaryFrom": 2800.0,
+  "salaryTo": 3400.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "ON_SITE",
+  "publishDate": "2026-10-08T06:09:52.324+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-08T23:59:59.999+00:00",
+  "keywords": [
+   "darbu vadītāj",
+   "site manager",
+   "vājstravas",
+   "EST",
+   "ELT"
+  ],
+  "firstSeen": "2026-10-08T06:16:59+00:00"
+ },
+ {
+  "id": 1666727,
+  "positionTitle": "Pārdošanas Vadītājs (Hortikultūras Nozarē / EMEA)",
+  "employerName": "SAF TEHNIKA AS",
+  "salaryFrom": 2300.0,
+  "salaryTo": null,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "HYBRID",
+  "publishDate": "2026-10-08T06:00:26.242+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-08T23:59:59.999+00:00",
+  "keywords": [],
+  "firstSeen": "2026-10-08T06:16:59+00:00"
+ },
+ {
+  "id": 1666717,
+  "positionTitle": "Personāla speciālists/e",
+  "employerName": "Trialto Latvia SIA",
+  "salaryFrom": 2000.0,
+  "salaryTo": 2200.0,
+  "hourlySalary": false,
+  "townId": null,
+  "remoteWorkType": "ON_SITE",
+  "publishDate": "2026-10-08T05:54:33.450+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-08T23:59:59.999+00:00",
+  "keywords": [
+   "HR",
+   "Personāla"
+  ],
+  "firstSeen": "2026-10-08T06:16:59+00:00"
+ },
+ {
+  "id": 1666716,
+  "positionTitle": "CNC frēzes iekārtu operators/-e",
+  "employerName": "PLUFF SIA",
+  "salaryFrom": 1600.0,
+  "salaryTo": 2300.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "ON_SITE",
+  "publishDate": "2026-10-08T05:28:21.896+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-08T23:59:59.999+00:00",
+  "keywords": [],
+  "firstSeen": "2026-10-08T06:16:59+00:00"
+ },
+ {
   "id": 1666559,
   "positionTitle": "Būvdarbu vadītājs/-a",
   "employerName": "SHENBERG SIA",
