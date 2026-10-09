@@ -1,5 +1,22 @@
 [
  {
+  "id": 1620856,
+  "positionTitle": "Auto pārdevējs/-a - konsultants/-e",
+  "employerName": "Legal Support SIA",
+  "salaryFrom": 1500.0,
+  "salaryTo": 3000.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "ON_SITE",
+  "publishDate": "2026-10-08T20:51:33.330+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-07T23:59:59.999+00:00",
+  "keywords": [
+   "Auto"
+  ],
+  "firstSeen": "2026-10-09T00:26:00+00:00"
+ },
+ {
   "id": 1667126,
   "positionTitle": "Customer Engagement Specialist",
   "employerName": "IT Camp",
