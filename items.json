@@ -1,5 +1,38 @@
 [
  {
+  "id": 1667797,
+  "positionTitle": "Klientu attiecību vadītājs/-a",
+  "employerName": "Fontes Executive Search",
+  "salaryFrom": 2190.0,
+  "salaryTo": null,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "ON_SITE",
+  "publishDate": "2026-10-10T11:55:37.000+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-10-25T23:59:59.999+00:00",
+  "keywords": [
+   "komunikācija",
+   "administrēšana"
+  ],
+  "firstSeen": "2026-10-10T12:38:44+00:00"
+ },
+ {
+  "id": 1667796,
+  "positionTitle": "Senior Category Manager",
+  "employerName": "FYUL",
+  "salaryFrom": 3200.0,
+  "salaryTo": 3800.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "HYBRID",
+  "publishDate": "2026-10-10T08:50:19.127+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-10T23:59:59.999+00:00",
+  "keywords": [],
+  "firstSeen": "2026-10-10T12:38:44+00:00"
+ },
+ {
   "id": 1667660,
   "positionTitle": "Mechanical Engineer",
   "employerName": "Redwire Defense Tech Riga",
