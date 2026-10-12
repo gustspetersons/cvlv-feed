@@ -1,5 +1,35 @@
 [
  {
+  "id": 1668298,
+  "positionTitle": "360 TV ziņu žurnālists/-e",
+  "employerName": "Tet SIA",
+  "salaryFrom": 2000.0,
+  "salaryTo": 2300.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "ON_SITE",
+  "publishDate": "2026-10-12T16:22:59.016+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-12T23:59:59.999+00:00",
+  "keywords": [],
+  "firstSeen": "2026-10-12T23:02:06+00:00"
+ },
+ {
+  "id": 1668295,
+  "positionTitle": "Produktu vadītājs/a IT komponentēm",
+  "employerName": "PROKS SIA",
+  "salaryFrom": 3500.0,
+  "salaryTo": 7300.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "ON_SITE",
+  "publishDate": "2026-10-12T15:44:59.991+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-12T23:59:59.999+00:00",
+  "keywords": [],
+  "firstSeen": "2026-10-12T23:02:06+00:00"
+ },
+ {
   "id": 1668294,
   "positionTitle": "Vecākais eksporta klientu vadītājs (Senior Key Account Manager), IT komponentes",
   "employerName": "PROKS SIA",
