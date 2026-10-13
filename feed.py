@@ -17,6 +17,7 @@ import csv
 import html
 import json
 import time
+import unicodedata
 import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
@@ -87,20 +88,24 @@ def save_seen(path, seen):
         writer.writerows(sorted(seen.items()))
 
 
+def fold(text):
+    """Normalise text for case-insensitive matching of Latvian letters."""
+    return unicodedata.normalize("NFC", text or "").casefold()
+
+
 def load_excluded(path):
     if not path.exists():
         return []
-    lines = path.read_text(encoding="utf-8").splitlines()
-    return [
-        line.strip().casefold()
-        for line in lines
-        if line.strip() and not line.startswith("#")
-    ]
+    lines = (line.strip() for line in path.read_text(encoding="utf-8").splitlines())
+    return [fold(line) for line in lines if line and not line.startswith("#")]
 
 
-def is_excluded(vacancy, excluded):
-    employer = (vacancy.get("employerName") or "").casefold()
-    return any(name in employer for name in excluded)
+def is_excluded(vacancy, employers, title_words):
+    employer = fold(vacancy.get("employerName"))
+    title = fold(vacancy.get("positionTitle"))
+    return any(name in employer for name in employers) or any(
+        word in title for word in title_words
+    )
 
 
 def to_item(vacancy, first_seen):
@@ -193,7 +198,10 @@ def main():
     seen = load_seen(seen_path)
     first_run = seen is None
     seen = seen or {}
-    excluded = load_excluded(Path("excluded_employers.txt"))
+    excluded = (
+        load_excluded(Path("excluded_employers.txt")),
+        load_excluded(Path("excluded_keywords.txt")),
+    )
     items = (
         {item["id"]: item for item in json.loads(items_path.read_text("utf-8"))}
         if items_path.exists()
@@ -218,13 +226,19 @@ def main():
     added = 0
     for vacancy_id in dict.fromkeys(feed_ids):
         vacancy = live[vacancy_id]
-        if vacancy_id in items or is_excluded(vacancy, excluded):
+        if vacancy_id in items or is_excluded(vacancy, *excluded):
             continue
         items[vacancy_id] = to_item(vacancy, now.isoformat())
         added += 1
 
+    # Exclusions also clear ads already in the feed, so a list edit applies to
+    # the whole feed on the next run.
     cutoff = now - timedelta(days=FEED_DAYS)
-    kept = [item for item in items.values() if parse_time(item["firstSeen"]) >= cutoff]
+    kept = [
+        item
+        for item in items.values()
+        if parse_time(item["firstSeen"]) >= cutoff and not is_excluded(item, *excluded)
+    ]
     kept.sort(key=lambda item: (item["firstSeen"], item["publishDate"]), reverse=True)
 
     args.site.mkdir(parents=True, exist_ok=True)
