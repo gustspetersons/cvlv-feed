@@ -4,3 +4,4 @@
 # ending is caught: "automehāniķ" matches "Automehāniķis/-e" and "Automehāniķe".
 # Lines starting with # are ignored.
 automehāniķ
+praktikant
