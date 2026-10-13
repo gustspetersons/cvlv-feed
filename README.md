@@ -13,6 +13,10 @@ Every two hours a GitHub Actions job pulls the full list behind
 vacancy IDs with every ID seen before (`seen.csv` on the `gh-pages` branch).
 IDs it has never seen go into the feed, which keeps the last 14 days of them.
 
+cv.lv lets an hourly-paid ad through when the top of its range clears 2000 EUR,
+so the feed also drops hourly ads whose lowest rate × 168 hours comes to less
+than 2000 EUR a month (under about 11.90 EUR/h).
+
 A renewal keeps the vacancy's ID, so renewed ads already seen never come back.
 An expired ad brought back by a renewal is new, so it does appear, marked
 "Atjaunināts".

@@ -4,4 +4,3 @@
 # substring match. Use the word stem so every ending is caught: "kasier"
 # matches "Kasieris/-e", "Kasiere" and "Kasieri".
 # Lines starting with # are ignored.
-kasier

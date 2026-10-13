@@ -27,7 +27,8 @@ from xml.sax.saxutils import escape
 from zoneinfo import ZoneInfo
 
 API_URL = "https://www.cv.lv/api/v1/vacancy-search-service/search"
-SEARCH_PARAMS = {"salaryFrom": 2000, "sorting": "LATEST"}
+MIN_SALARY = 2000
+SEARCH_PARAMS = {"salaryFrom": MIN_SALARY, "sorting": "LATEST"}
 SEARCH_PAGE = "https://www.cv.lv/lv/search?salaryFrom=2000&sorting=LATEST"
 VACANCY_URL = "https://www.cv.lv/lv/vacancy/{id}"
 FEED_URL = "https://gustspetersons.github.io/cvlv-feed/feed.xml"
@@ -36,6 +37,7 @@ USER_AGENT = "cvlv-feed/1.0 (personal RSS; github.com/gustspetersons/cvlv-feed)"
 PAGE_SIZE = 500
 MAX_PAGES = 20
 FEED_DAYS = 14
+HOURS_PER_MONTH = 168  # a 40-hour week, to turn an hourly rate into a monthly one
 RIGA = ZoneInfo("Europe/Riga")
 
 TOWNS = {543: "Rīga"}
@@ -100,8 +102,20 @@ def load_excluded(path):
     return [fold(line) for line in lines if line and not line.startswith("#")]
 
 
+def pays_too_little(vacancy):
+    """Is the ad paid by the hour with a floor under MIN_SALARY a month?
+
+    cv.lv lets an hourly ad through when the top of its range clears the salary
+    filter, so shift jobs at 7–22 €/h show up. An ad with no floor is kept.
+    """
+    low = vacancy.get("salaryFrom")
+    if not vacancy.get("hourlySalary") or low is None:
+        return False
+    return low * HOURS_PER_MONTH < MIN_SALARY
+
+
 def is_excluded(vacancy, employers, titles, keywords):
-    """Is the ad from an excluded employer, or does it carry an excluded word?
+    """Is the ad underpaid, from an excluded employer, or carrying an excluded word?
 
     Words in `titles` match the position title only; words in `keywords` match
     the title and cv.lv's own keywords for the ad.
@@ -110,7 +124,8 @@ def is_excluded(vacancy, employers, titles, keywords):
     title = fold(vacancy.get("positionTitle"))
     tags = [fold(tag) for tag in vacancy.get("keywords") or []]
     return (
-        any(name in employer for name in employers)
+        pays_too_little(vacancy)
+        or any(name in employer for name in employers)
         or any(word in title for word in titles + keywords)
         or any(word in tag for word in keywords for tag in tags)
     )
