@@ -1,0 +1,6 @@
+# Words that keep an ad out of the feed when its position title contains them.
+# One per line, case-insensitive substring match. Use the word stem so every
+# ending is caught: "kasier" matches "Kasieris/-e", "Kasiere" and "Kasieri".
+# Lines starting with # are ignored.
+automehāniķ
+kasier
