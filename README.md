@@ -22,10 +22,10 @@ An expired ad brought back by a renewal is new, so it does appear, marked
 - **Reading:** subscribe to the feed in an RSS reader (Inoreader). The reader
   remembers what has been read; nothing needs marking by hand here.
 - **Excluding employers:** add a name to `excluded_employers.txt`.
-- **Excluding by keyword:** add a word stem to `excluded_keywords.txt`; any ad
-  whose position title or cv.lv keywords contain it stays out ("kasier"
-  catches every ending).
-- Both lists also clear matching ads already in the feed on the next run.
+- **Excluding by word:** add a word stem to `excluded_titles.txt` to match
+  position titles only, or to `excluded_keywords.txt` to match titles and
+  cv.lv's keywords too ("kasier" catches every ending).
+- All three lists also clear matching ads already in the feed on the next run.
 - **Backfill:** Actions → Update feed → Run workflow, with a `since` time, adds
   every fresh ad published since then that isn't in the feed yet.
 - **If it breaks** (cv.lv changes its API), the run fails and GitHub emails a

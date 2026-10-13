@@ -100,13 +100,19 @@ def load_excluded(path):
     return [fold(line) for line in lines if line and not line.startswith("#")]
 
 
-def is_excluded(vacancy, employers, words):
-    """Match employers by name, and words in the title or cv.lv's keywords."""
+def is_excluded(vacancy, employers, titles, keywords):
+    """Is the ad from an excluded employer, or does it carry an excluded word?
+
+    Words in `titles` match the position title only; words in `keywords` match
+    the title and cv.lv's own keywords for the ad.
+    """
     employer = fold(vacancy.get("employerName"))
-    texts = [vacancy.get("positionTitle"), *(vacancy.get("keywords") or [])]
-    texts = [fold(text) for text in texts]
-    return any(name in employer for name in employers) or any(
-        word in text for word in words for text in texts
+    title = fold(vacancy.get("positionTitle"))
+    tags = [fold(tag) for tag in vacancy.get("keywords") or []]
+    return (
+        any(name in employer for name in employers)
+        or any(word in title for word in titles + keywords)
+        or any(word in tag for word in keywords for tag in tags)
     )
 
 
@@ -202,6 +208,7 @@ def main():
     seen = seen or {}
     excluded = (
         load_excluded(Path("excluded_employers.txt")),
+        load_excluded(Path("excluded_titles.txt")),
         load_excluded(Path("excluded_keywords.txt")),
     )
     items = (
