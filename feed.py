@@ -100,11 +100,13 @@ def load_excluded(path):
     return [fold(line) for line in lines if line and not line.startswith("#")]
 
 
-def is_excluded(vacancy, employers, title_words):
+def is_excluded(vacancy, employers, words):
+    """Match employers by name, and words in the title or cv.lv's keywords."""
     employer = fold(vacancy.get("employerName"))
-    title = fold(vacancy.get("positionTitle"))
+    texts = [vacancy.get("positionTitle"), *(vacancy.get("keywords") or [])]
+    texts = [fold(text) for text in texts]
     return any(name in employer for name in employers) or any(
-        word in title for word in title_words
+        word in text for word in words for text in texts
     )
 
 
