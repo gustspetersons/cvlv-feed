@@ -5,3 +5,4 @@
 # Lines starting with # are ignored.
 automehāniķ
 praktikant
+SEO
