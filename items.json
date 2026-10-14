@@ -1,5 +1,38 @@
 [
  {
+  "id": 1669358,
+  "positionTitle": "Latvijas Radio Ziņu dienesta vadītājs/-a",
+  "employerName": "Latvijas Sabiedriskais medijs",
+  "salaryFrom": 3400.0,
+  "salaryTo": 3400.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "ON_SITE",
+  "publishDate": "2026-10-14T20:05:07.270+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-08T23:59:59.999+00:00",
+  "keywords": [],
+  "firstSeen": "2026-10-14T23:16:53+00:00"
+ },
+ {
+  "id": 1667890,
+  "positionTitle": "German Speaking Project Management Office Specialist",
+  "employerName": "Arvato Systems Latvia SIA",
+  "salaryFrom": 2000.0,
+  "salaryTo": 2900.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "HYBRID",
+  "publishDate": "2026-10-14T19:09:35.438+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-14T23:59:59.999+00:00",
+  "keywords": [
+   "German",
+   "Project Management"
+  ],
+  "firstSeen": "2026-10-14T23:16:53+00:00"
+ },
+ {
   "id": 1669330,
   "positionTitle": "Junior Software Developer / Jaunākais programmatūras izstrādātājs (-a) | SEB, Riga",
   "employerName": "SEB",
