@@ -1,5 +1,20 @@
 [
  {
+  "id": 1669868,
+  "positionTitle": "Vecākais grāmatvedis/e",
+  "employerName": "Pasažieru vilciens AS",
+  "salaryFrom": 2100.0,
+  "salaryTo": 2100.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "HYBRID",
+  "publishDate": "2026-10-15T20:12:41.055+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-10-29T23:59:59.999+00:00",
+  "keywords": [],
+  "firstSeen": "2026-10-15T21:28:05+00:00"
+ },
+ {
   "id": 1669858,
   "positionTitle": "Foreman / Supervisor",
   "employerName": "Nord Armering AB",
