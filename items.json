@@ -1,5 +1,74 @@
 [
  {
+  "id": 1669495,
+  "positionTitle": "Būvdarbu vadītājs/-a",
+  "employerName": "Hagberg SIA",
+  "salaryFrom": 2500.0,
+  "salaryTo": 3100.0,
+  "hourlySalary": false,
+  "townId": 556,
+  "remoteWorkType": "ON_SITE",
+  "publishDate": "2026-10-15T04:33:56.705+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-15T23:59:59.999+00:00",
+  "keywords": [
+   "Būvdarbu vadītājs",
+   "Būvniecība",
+   "Liepāja"
+  ],
+  "firstSeen": "2026-10-15T04:47:39+00:00"
+ },
+ {
+  "id": 1669347,
+  "positionTitle": "Tāmēšanas inženieris",
+  "employerName": "CLT PROFI SIA",
+  "salaryFrom": 1400.0,
+  "salaryTo": 2000.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "ON_SITE",
+  "publishDate": "2026-10-15T00:00:00.000+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-15T23:59:59.999+00:00",
+  "keywords": [],
+  "firstSeen": "2026-10-15T04:47:39+00:00"
+ },
+ {
+  "id": 1668261,
+  "positionTitle": "Lauksaimniecības tehnikas mehāniķis Rēzeknē",
+  "employerName": "STOKKER SIA",
+  "salaryFrom": 1400.0,
+  "salaryTo": 2300.0,
+  "hourlySalary": false,
+  "townId": 562,
+  "remoteWorkType": "ON_SITE",
+  "publishDate": "2026-10-15T00:00:00.000+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-15T23:59:59.999+00:00",
+  "keywords": [],
+  "firstSeen": "2026-10-15T04:47:39+00:00"
+ },
+ {
+  "id": 1669288,
+  "positionTitle": "Biroja administrators/e - vadītāja palīgs/dze",
+  "employerName": "L-Ekspresis SIA",
+  "salaryFrom": 1700.0,
+  "salaryTo": 2000.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "ON_SITE",
+  "publishDate": "2026-10-15T00:00:00.000+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-15T23:59:59.999+00:00",
+  "keywords": [
+   "biroja administrators/e",
+   "vadītāja palīgs/dze",
+   "lietvedis/e",
+   "biroja vadītājs/a"
+  ],
+  "firstSeen": "2026-10-15T04:47:39+00:00"
+ },
+ {
   "id": 1669358,
   "positionTitle": "Latvijas Radio Ziņu dienesta vadītājs/-a",
   "employerName": "Latvijas Sabiedriskais medijs",
