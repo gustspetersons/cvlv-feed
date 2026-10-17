@@ -33,4 +33,8 @@ An expired ad brought back by a renewal is new, so it does appear, marked
 - **Backfill:** Actions → Update feed → Run workflow, with a `since` time, adds
   every fresh ad published since then that isn't in the feed yet.
 - **If it breaks** (cv.lv changes its API), the run fails and GitHub emails a
-  notice.
+  notice. A brief network blip doesn't: each request is retried three times
+  over about two minutes, and only a warning shows on the run.
+- **Staying on schedule:** GitHub turns schedules off in public repos after 60
+  days without activity, which would make the feed go quiet with no email.
+  Every run re-enables the workflow to reset that counter.
