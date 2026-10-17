@@ -1,5 +1,24 @@
 [
  {
+  "id": 1670401,
+  "positionTitle": "Head of Risk",
+  "employerName": "PAYBIS Ltd. Latvijas filiāle",
+  "salaryFrom": 5000.0,
+  "salaryTo": 10000.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "HYBRID",
+  "publishDate": "2026-10-16T21:21:55.067+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-16T23:59:59.999+00:00",
+  "keywords": [
+   "Fintech",
+   "Crypto",
+   "Risk"
+  ],
+  "firstSeen": "2026-10-17T07:00:28+00:00"
+ },
+ {
   "id": 1670387,
   "positionTitle": "Ražošanas inženieris-/e (mehānika un procesi)",
   "employerName": "NATRIX SIA",
