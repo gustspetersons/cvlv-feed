@@ -1,5 +1,35 @@
 [
  {
+  "id": 1670515,
+  "positionTitle": "Head of Transformation and Innovation",
+  "employerName": "Sorainen ZAB",
+  "salaryFrom": null,
+  "salaryTo": 5000.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "ON_SITE",
+  "publishDate": "2026-10-17T10:46:55.996+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-15T23:59:59.999+00:00",
+  "keywords": [],
+  "firstSeen": "2026-10-17T12:14:14+00:00"
+ },
+ {
+  "id": 1670514,
+  "positionTitle": "Bilancspējīgs/-a pilna cikla grāmatvedis/-e (nepilns darba laiks)",
+  "employerName": "FINCORUM SIA",
+  "salaryFrom": 2200.0,
+  "salaryTo": 2800.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "ON_SITE",
+  "publishDate": "2026-10-17T10:04:26.762+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-17T23:59:59.999+00:00",
+  "keywords": [],
+  "firstSeen": "2026-10-17T12:14:14+00:00"
+ },
+ {
   "id": 1670401,
   "positionTitle": "Head of Risk",
   "employerName": "PAYBIS Ltd. Latvijas filiāle",
