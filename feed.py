@@ -15,9 +15,11 @@ State lives next to the feed in the site directory (the gh-pages branch):
 import argparse
 import csv
 import html
+import http.client
 import json
 import time
 import unicodedata
+import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
@@ -36,6 +38,8 @@ USER_AGENT = "cvlv-feed/1.0 (personal RSS; github.com/gustspetersons/cvlv-feed)"
 
 PAGE_SIZE = 500
 MAX_PAGES = 20
+ATTEMPTS = 4  # tries per page before the run gives up
+RETRY_WAIT = 15  # seconds before the first retry, doubled for each one after
 FEED_DAYS = 14
 HOURS_PER_MONTH = 168  # a 40-hour week, to turn an hourly rate into a monthly one
 RIGA = ZoneInfo("Europe/Riga")
@@ -52,17 +56,43 @@ def parse_time(value):
     return datetime.fromisoformat(value) if value else None
 
 
+def fetch_page(params):
+    """Return one page of search results, retrying when cv.lv drops the line.
+
+    Now and then cv.lv cuts a response off halfway, times out or answers with
+    a 5xx; the same request a little later goes through. Other HTTP errors
+    (a 4xx other than 429) fail straight away, since a retry won't fix them.
+    """
+    request = urllib.request.Request(
+        f"{API_URL}?{urllib.parse.urlencode(params)}",
+        headers={"User-Agent": USER_AGENT, "Accept": "application/json"},
+    )
+    for attempt in range(1, ATTEMPTS + 1):
+        try:
+            with urllib.request.urlopen(request, timeout=60) as response:
+                return json.load(response)
+        except urllib.error.HTTPError as error:
+            transient = error.code >= 500 or error.code == 429
+            if not transient or attempt == ATTEMPTS:
+                raise
+            reason = f"HTTP {error.code}"
+        except (http.client.HTTPException, OSError, json.JSONDecodeError) as error:
+            if attempt == ATTEMPTS:
+                raise
+            reason = type(error).__name__
+        wait = RETRY_WAIT * 2 ** (attempt - 1)
+        print(
+            f"::warning::cv.lv request failed ({reason}) at offset "
+            f"{params['offset']}; retry {attempt} of {ATTEMPTS - 1} in {wait} s"
+        )
+        time.sleep(wait)
+
+
 def fetch_vacancies():
     """Return every live vacancy matching SEARCH_PARAMS, keyed by ID."""
     vacancies, total, offset = {}, None, 0
     for _ in range(MAX_PAGES):
-        params = {**SEARCH_PARAMS, "limit": PAGE_SIZE, "offset": offset}
-        request = urllib.request.Request(
-            f"{API_URL}?{urllib.parse.urlencode(params)}",
-            headers={"User-Agent": USER_AGENT, "Accept": "application/json"},
-        )
-        with urllib.request.urlopen(request, timeout=60) as response:
-            page = json.load(response)
+        page = fetch_page({**SEARCH_PARAMS, "limit": PAGE_SIZE, "offset": offset})
         total = page["total"]
         batch = page["vacancies"]
         for vacancy in batch:
@@ -72,7 +102,7 @@ def fetch_vacancies():
             break
         time.sleep(1)
     if total and len(vacancies) < total:
-        print(f"Warning: got {len(vacancies)} of {total} vacancies")
+        print(f"::warning::got {len(vacancies)} of {total} vacancies")
     return vacancies
 
 
