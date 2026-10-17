@@ -40,6 +40,11 @@ PAGE_SIZE = 500
 MAX_PAGES = 20
 ATTEMPTS = 4  # tries per page before the run gives up
 RETRY_WAIT = 15  # seconds before the first retry, doubled for each one after
+MAX_SHORTFALL = 5  # ads a fetch may miss of cv.lv's total before it's a problem
+MAX_QUIET_DAYS = 4  # days without a single new ad before it's a problem
+# Problems that should fail the run once state is saved; the workflow's
+# "Check feed health" step turns each line into an error, which GitHub emails.
+PROBLEMS_FILE = Path("problems.txt")
 FEED_DAYS = 14
 HOURS_PER_MONTH = 168  # a 40-hour week, to turn an hourly rate into a monthly one
 RIGA = ZoneInfo("Europe/Riga")
@@ -89,7 +94,10 @@ def fetch_page(params):
 
 
 def fetch_vacancies():
-    """Return every live vacancy matching SEARCH_PARAMS, keyed by ID."""
+    """Return every live vacancy matching SEARCH_PARAMS, keyed by ID.
+
+    Also returns the total cv.lv reports, to check that none were skipped.
+    """
     vacancies, total, offset = {}, None, 0
     for _ in range(MAX_PAGES):
         page = fetch_page({**SEARCH_PARAMS, "limit": PAGE_SIZE, "offset": offset})
@@ -101,9 +109,27 @@ def fetch_vacancies():
         if not batch or offset >= total:
             break
         time.sleep(1)
-    if total and len(vacancies) < total:
-        print(f"::warning::got {len(vacancies)} of {total} vacancies")
-    return vacancies
+    return vacancies, total
+
+
+def check_health(live, total, seen, now):
+    """Return what looks wrong with this run, one line per problem."""
+    problems = []
+    missing = total - len(live)
+    if missing > MAX_SHORTFALL:
+        problems.append(
+            f"Fetched {len(live)} of the {total} vacancies cv.lv reports, "
+            "twice in a row: some ads are being skipped"
+        )
+    elif missing > 0:
+        print(f"::warning::got {len(live)} of {total} vacancies")
+    newest = max(parse_time(first_seen) for first_seen in seen.values())
+    if now - newest > timedelta(days=MAX_QUIET_DAYS):
+        problems.append(
+            f"No new vacancy since {newest.astimezone(RIGA):%d.%m.%Y %H:%M}, "
+            f"over {MAX_QUIET_DAYS} days; cv.lv usually adds dozens a weekday"
+        )
+    return problems
 
 
 def load_seen(path):
@@ -244,7 +270,12 @@ def main():
     seen_path = args.site / "seen.csv"
     items_path = args.site / "items.json"
 
-    live = fetch_vacancies()
+    live, total = fetch_vacancies()
+    if total - len(live) > MAX_SHORTFALL:
+        # Ads published or withdrawn mid-fetch shift the pages; a second pass
+        # tells that apart from ads that never come through.
+        time.sleep(RETRY_WAIT)
+        live, total = fetch_vacancies()
     if not live:
         raise SystemExit("cv.lv returned no vacancies; leaving state untouched")
 
@@ -304,6 +335,10 @@ def main():
     print(
         f"Live: {len(live)} | first seen now: {len(new_ids)} | "
         f"added to feed: {added} | in feed: {len(kept)}"
+    )
+    problems = check_health(live, total, seen, now)
+    PROBLEMS_FILE.write_text(
+        "".join(f"{problem}\n" for problem in problems), encoding="utf-8"
     )
 
 

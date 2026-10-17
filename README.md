@@ -35,6 +35,10 @@ An expired ad brought back by a renewal is new, so it does appear, marked
 - **If it breaks** (cv.lv changes its API), the run fails and GitHub emails a
   notice. A brief network blip doesn't: each request is retried three times
   over about two minutes, and only a warning shows on the run.
+- **Health checks:** the run also fails, after saving its state, when it
+  fetches more than 5 ads fewer than the total cv.lv reports (twice in a row),
+  or when no new ad has turned up for 4 days. The failed step, "Check feed
+  health", says which.
 - **Staying on schedule:** GitHub turns schedules off in public repos after 60
   days without activity, which would make the feed go quiet with no email.
   Every run re-enables the workflow to reset that counter.

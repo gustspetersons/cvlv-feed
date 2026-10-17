@@ -50,6 +50,14 @@ jobs:
             git push
           fi
 
+      # Runs after Publish, so the state is saved even when this fails.
+      - name: Check feed health
+        run: |
+          if [ -s problems.txt ]; then
+            sed 's/^/::error::/' problems.txt
+            exit 1
+          fi
+
       # GitHub turns schedules off in public repos after 60 days without
       # repository activity. Re-enabling the workflow resets that counter.
       - name: Keep the schedule alive
