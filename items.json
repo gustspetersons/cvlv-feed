@@ -1009,26 +1009,6 @@
   "firstSeen": "2026-10-16T13:17:50+00:00"
  },
  {
-  "id": 1670118,
-  "positionTitle": "Jurists",
-  "employerName": "VIA SMS Group",
-  "salaryFrom": 2800.0,
-  "salaryTo": 3000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-16T08:36:26.041+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-16T23:59:59.999+00:00",
-  "keywords": [
-   "Jurists",
-   "MiFID",
-   "Dora",
-   "AML"
-  ],
-  "firstSeen": "2026-10-16T13:17:50+00:00"
- },
- {
   "id": 1670110,
   "positionTitle": "Lielo klientu vadītājs/a (Key Account Manager) IT komponentes",
   "employerName": "PROKS SIA",
@@ -1095,23 +1075,6 @@
   "firstSeen": "2026-10-16T13:17:50+00:00"
  },
  {
-  "id": 1670099,
-  "positionTitle": "Farmaceits/-e un Farmaceita asistents/-e Rīgā, Rīgas rajonā",
-  "employerName": "Apotheka SIA",
-  "salaryFrom": 1800.0,
-  "salaryTo": 2300.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-16T08:16:27.242+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-16T23:59:59.999+00:00",
-  "keywords": [
-   "farmaceits, farmaceita asistents, farmācija"
-  ],
-  "firstSeen": "2026-10-16T13:17:50+00:00"
- },
- {
   "id": 1670098,
   "positionTitle": "Cost Estimator - hydrotechnical projects",
   "employerName": "Budimex S.A.",
@@ -1128,23 +1091,6 @@
    "cost",
    "estimating",
    "estimator"
-  ],
-  "firstSeen": "2026-10-16T13:17:50+00:00"
- },
- {
-  "id": 1670094,
-  "positionTitle": "Farmaceits/-e un Farmaceita asistents/-e Latgalē",
-  "employerName": "Apotheka SIA",
-  "salaryFrom": 1600.0,
-  "salaryTo": 2100.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-16T08:04:58.970+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-16T23:59:59.999+00:00",
-  "keywords": [
-   "farmaceits, farmaceita asistents, farmācija"
   ],
   "firstSeen": "2026-10-16T13:17:50+00:00"
  },
@@ -1522,21 +1468,6 @@
   "publishDate": "2026-10-15T12:59:29.420+00:00",
   "renewedDate": null,
   "expirationDate": "2026-10-30T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-15T17:06:03+00:00"
- },
- {
-  "id": 1669788,
-  "positionTitle": "Farmaceits/-e / Farmaceita asistents/-e aptiekās Rīgā",
-  "employerName": "Euroaptieka SIA",
-  "salaryFrom": 1850.0,
-  "salaryTo": 2250.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-15T12:48:04.748+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-15T23:59:59.999+00:00",
   "keywords": [],
   "firstSeen": "2026-10-15T17:06:03+00:00"
  },
@@ -2572,24 +2503,6 @@
   "renewedDate": null,
   "expirationDate": "2026-11-14T23:59:59.999+00:00",
   "keywords": [],
-  "firstSeen": "2026-10-14T13:47:02+00:00"
- },
- {
-  "id": 1669184,
-  "positionTitle": "Galvenais grāmatvedis",
-  "employerName": "VIA SMS Group",
-  "salaryFrom": 3300.0,
-  "salaryTo": 3500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-14T11:10:11.981+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-14T23:59:59.999+00:00",
-  "keywords": [
-   "Grāmatvedība",
-   "IFRS"
-  ],
   "firstSeen": "2026-10-14T13:47:02+00:00"
  },
  {
