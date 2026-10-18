@@ -1,5 +1,24 @@
 [
  {
+  "id": 1670536,
+  "positionTitle": "Customer Support Specialist (US Calling Team)",
+  "employerName": "PAYBIS Ltd. Latvijas filiāle",
+  "salaryFrom": 1600.0,
+  "salaryTo": 2300.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "HYBRID",
+  "publishDate": "2026-10-18T07:45:32.108+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-18T23:59:59.999+00:00",
+  "keywords": [
+   "Crypto",
+   "FinTech",
+   "Attention to details"
+  ],
+  "firstSeen": "2026-10-18T11:15:19+00:00"
+ },
+ {
   "id": 1670515,
   "positionTitle": "Head of Transformation and Innovation",
   "employerName": "Sorainen ZAB",
