@@ -1,5 +1,20 @@
 [
  {
+  "id": 1671339,
+  "positionTitle": "Sales Manager — Latvia",
+  "employerName": "NOVA POST Latvia SIA",
+  "salaryFrom": 2800.0,
+  "salaryTo": null,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "HYBRID",
+  "publishDate": "2026-10-21T00:00:00.000+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-21T23:59:59.999+00:00",
+  "keywords": [],
+  "firstSeen": "2026-10-21T00:39:33+00:00"
+ },
+ {
   "id": 1671526,
   "positionTitle": "Backend Developer (.NET)",
   "employerName": "Atea Global Services",
