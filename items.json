@@ -1,5 +1,26 @@
 [
  {
+  "id": 1670661,
+  "positionTitle": "Jaunākais/-ā Jurists/-e / Jurists/-e Korporatīvo tiesību un M&A jomā",
+  "employerName": "KPMG Baltics SIA",
+  "salaryFrom": 1500.0,
+  "salaryTo": 2400.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "HYBRID",
+  "publishDate": "2026-10-22T00:00:00.000+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-22T23:59:59.999+00:00",
+  "keywords": [
+   "PwC",
+   "Deloitte",
+   "KPMG",
+   "Big 4",
+   "EY"
+  ],
+  "firstSeen": "2026-10-22T04:56:30+00:00"
+ },
+ {
   "id": 1672015,
   "positionTitle": "Junior-Middle Level Cloud Developer / Mākoņa risinājumu programmētājs/-a | SEB, Riga",
   "employerName": "SEB",
