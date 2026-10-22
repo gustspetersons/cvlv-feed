@@ -11,7 +11,7 @@ seen stay out.
 Every two hours a GitHub Actions job pulls the full list behind
 `cv.lv/lv/search?salaryFrom=2000` from cv.lv's search API and compares the
 vacancy IDs with every ID seen before (`seen.csv` on the `gh-pages` branch).
-IDs it has never seen go into the feed, which keeps the last 14 days of them.
+IDs it has never seen go into the feed, which keeps each for 14 days.
 
 cv.lv lets an hourly-paid ad through when the top of its range clears 2000 EUR,
 so the feed also drops hourly ads whose lowest rate × 168 hours comes to less
@@ -20,6 +20,12 @@ than 2000 EUR a month (under about 11.90 EUR/h).
 A renewal keeps the vacancy's ID, so renewed ads already seen never come back.
 An expired ad brought back by a renewal is new, so it does appear, marked
 "Atjaunināts".
+
+A vacancy posted more than once under new IDs (same employer, title and pay
+range, whether re-posted later or posted for several towns at once) gets a
+single feed item: the first posting, with the others listed under it as
+"Publicēts arī". The item stays until 14 days after the latest posting, so a
+vacancy re-posted every week shows up once.
 
 ## Day to day
 

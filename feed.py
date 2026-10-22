@@ -8,8 +8,11 @@ and does show up, tagged as such.
 State lives next to the feed in the site directory (the gh-pages branch):
 
     seen.csv    every vacancy ID ever seen, with the time it was first seen
-    items.json  the vacancies currently in the feed (last FEED_DAYS days)
+    items.json  the ads behind the feed's items, repeat postings included
     feed.xml    the RSS feed itself
+
+Repeat postings of one vacancy (same employer, title and pay range under new
+IDs) share a single feed item, which lists the later postings under the first.
 """
 
 import argparse
@@ -221,6 +224,28 @@ def is_excluded(vacancy, filters):
     )
 
 
+def posting_order(item):
+    return item["firstSeen"], item["publishDate"]
+
+
+def duplicate_key(item):
+    """Ads with the same key count as one vacancy posted more than once."""
+    return (
+        " ".join(fold(item["employerName"]).split()),
+        " ".join(fold(item["positionTitle"]).split()),
+        item["salaryFrom"],
+        item["salaryTo"],
+    )
+
+
+def group_duplicates(items):
+    """Group the postings of each vacancy, its first posting first."""
+    groups = {}
+    for item in sorted(items, key=posting_order):
+        groups.setdefault(duplicate_key(item), []).append(item)
+    return list(groups.values())
+
+
 def to_item(vacancy, first_seen):
     keys = [
         "id", "positionTitle", "employerName", "salaryFrom", "salaryTo",
@@ -240,38 +265,56 @@ def format_salary(item):
     return "alga nav norādīta"
 
 
-def describe(item):
-    """HTML body of one feed item."""
-    town = TOWNS.get(item["townId"], "ārpus Rīgas")
-    remote = REMOTE_TYPES.get(item["remoteWorkType"], "")
-    facts = " · ".join(part for part in [format_salary(item), town, remote] if part)
+def town(item):
+    return TOWNS.get(item["townId"], "ārpus Rīgas")
+
+
+def deadline(item):
     # cv.lv stores deadlines as 23:59 UTC, so the UTC date is the one it shows.
-    deadline = parse_time(item["expirationDate"]).strftime("%d.%m.%Y")
+    return parse_time(item["expirationDate"]).strftime("%d.%m.%Y")
+
+
+def published(item):
+    return parse_time(item["publishDate"]).astimezone(RIGA).strftime("%d.%m.%Y %H:%M")
+
+
+def describe(item, duplicates=()):
+    """HTML body of one feed item; `duplicates` are later postings of the ad."""
+    remote = REMOTE_TYPES.get(item["remoteWorkType"], "")
+    facts = " · ".join(
+        part for part in [format_salary(item), town(item), remote] if part
+    )
     status = "Atjaunināts" if item["renewedDate"] else "Publicēts"
-    published = parse_time(item["publishDate"]).astimezone(RIGA)
     lines = [
         f"<b>{html.escape(item['employerName'] or '')}</b>",
         html.escape(facts),
-        f"Pieteikties līdz {deadline}",
-        f"{status} {published:%d.%m.%Y %H:%M}",
+        f"Pieteikties līdz {deadline(item)}",
+        f"{status} {published(item)}",
     ]
+    for duplicate in duplicates:
+        link = VACANCY_URL.format(id=duplicate["id"])
+        lines.append(
+            f'Publicēts arī <a href="{link}">{published(duplicate)}</a> · '
+            f"{town(duplicate)} · līdz {deadline(duplicate)}"
+        )
     if item.get("keywords"):
         lines.append(html.escape(", ".join(item["keywords"])))
     return "<br>".join(lines)
 
 
-def build_feed(items, now):
+def build_feed(groups, now):
+    """Render the feed: one item per vacancy, its first posting up front."""
     entries = []
-    for item in items:
+    for item, *duplicates in groups:
         title = f"{item['positionTitle']} · {item['employerName']}"
-        published = parse_time(item["publishDate"])
+        pub_date = format_datetime(parse_time(item["publishDate"]))
         entries.append(
             "<item>"
             f"<title>{escape(title)}</title>"
             f"<link>{VACANCY_URL.format(id=item['id'])}</link>"
             f'<guid isPermaLink="false">cvlv-{item["id"]}</guid>'
-            f"<pubDate>{format_datetime(published)}</pubDate>"
-            f"<description>{escape(describe(item))}</description>"
+            f"<pubDate>{pub_date}</pubDate>"
+            f"<description>{escape(describe(item, duplicates))}</description>"
             "</item>"
         )
     return (
@@ -347,24 +390,30 @@ def main():
         added += 1
 
     # The lists also clear ads already in the feed, so a list edit applies to
-    # the whole feed on the next run.
+    # the whole feed on the next run. A vacancy's item stays until FEED_DAYS
+    # after its latest posting: dropping the first posting sooner would give
+    # the item a later posting's ID, which a reader would show as new.
     cutoff = now - timedelta(days=FEED_DAYS)
-    kept = [
-        item
-        for item in items.values()
-        if parse_time(item["firstSeen"]) >= cutoff and not is_excluded(item, filters)
+    groups = [
+        group
+        for group in group_duplicates(
+            item for item in items.values() if not is_excluded(item, filters)
+        )
+        if parse_time(group[-1]["firstSeen"]) >= cutoff
     ]
-    kept.sort(key=lambda item: (item["firstSeen"], item["publishDate"]), reverse=True)
+    groups.sort(key=lambda group: posting_order(group[0]), reverse=True)
+    kept = [item for group in groups for item in group]
 
     args.site.mkdir(parents=True, exist_ok=True)
     save_seen(seen_path, seen)
     items_path.write_text(
         json.dumps(kept, ensure_ascii=False, indent=1), encoding="utf-8"
     )
-    (args.site / "feed.xml").write_text(build_feed(kept, now), encoding="utf-8")
+    (args.site / "feed.xml").write_text(build_feed(groups, now), encoding="utf-8")
     print(
         f"Live: {len(live)} | first seen now: {len(new_ids)} | "
-        f"added to feed: {added} | in feed: {len(kept)}"
+        f"added to feed: {added} | in feed: {len(groups)} vacancies, "
+        f"{len(kept)} ads"
     )
     problems = check_health(live, total, seen, now)
     PROBLEMS_FILE.write_text(
