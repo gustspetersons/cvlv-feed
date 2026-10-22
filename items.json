@@ -1,5 +1,209 @@
 [
  {
+  "id": 1672496,
+  "positionTitle": "HR & Administration Specialist",
+  "employerName": "Picanova GmbH filiāle Picanova Baltics",
+  "salaryFrom": 1800.0,
+  "salaryTo": 2300.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "ON_SITE",
+  "publishDate": "2026-10-22T14:48:58.904+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-21T23:59:59.999+00:00",
+  "keywords": [],
+  "firstSeen": "2026-10-22T17:15:29+00:00"
+ },
+ {
+  "id": 1672489,
+  "positionTitle": "Iepirkumu speciālists/-e (darbs Rīgas birojā un Skrīveros)",
+  "employerName": "Skrīveru saldumi SIA",
+  "salaryFrom": 2500.0,
+  "salaryTo": null,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "ON_SITE",
+  "publishDate": "2026-10-22T14:31:54.401+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-05T23:59:59.999+00:00",
+  "keywords": [],
+  "firstSeen": "2026-10-22T17:15:29+00:00"
+ },
+ {
+  "id": 1672492,
+  "positionTitle": "Operation Engineer",
+  "employerName": "WCA Walldorf Consulting GmbH Latvijas filiāle ",
+  "salaryFrom": 2500.0,
+  "salaryTo": 3000.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "HYBRID",
+  "publishDate": "2026-10-22T14:25:59.391+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-22T23:59:59.999+00:00",
+  "keywords": [],
+  "firstSeen": "2026-10-22T17:15:29+00:00"
+ },
+ {
+  "id": 1672488,
+  "positionTitle": "Grafiskais dizaineris",
+  "employerName": "X100 AGENCY",
+  "salaryFrom": 2500.0,
+  "salaryTo": 3500.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "ON_SITE",
+  "publishDate": "2026-10-22T14:22:57.656+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-22T23:59:59.999+00:00",
+  "keywords": [
+   "Dizaineris",
+   "Grafiskais dizaineris"
+  ],
+  "firstSeen": "2026-10-22T17:15:29+00:00"
+ },
+ {
+  "id": 1672483,
+  "positionTitle": "Chief Growth Officer (Riga or Vilnius based)",
+  "employerName": "TestDevLab SIA",
+  "salaryFrom": 5000.0,
+  "salaryTo": 8000.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "ON_SITE",
+  "publishDate": "2026-10-22T14:04:05.353+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-22T23:59:59.999+00:00",
+  "keywords": [
+   "Pārdošana",
+   "Growth",
+   "Chief"
+  ],
+  "firstSeen": "2026-10-22T17:15:29+00:00"
+ },
+ {
+  "id": 1672469,
+  "positionTitle": "Inženierkomunikāciju tehniķis/-e Jaunjelgava, Jēkabpils, Krāslava, Gulbene",
+  "employerName": "Latgran SIA ",
+  "salaryFrom": 2250.0,
+  "salaryTo": null,
+  "hourlySalary": false,
+  "townId": 619,
+  "remoteWorkType": "ON_SITE",
+  "publishDate": "2026-10-22T13:38:58.000+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-22T23:59:59.999+00:00",
+  "keywords": [
+   "Jēkabpils",
+   "Krāslava",
+   "Gulbene"
+  ],
+  "firstSeen": "2026-10-22T17:15:29+00:00"
+ },
+ {
+  "id": 1672457,
+  "positionTitle": "Apdrošināšanas atlīdzību speciālists/-e (Īpašuma un speciālie produkti)",
+  "employerName": "Balcia Insurance SE ",
+  "salaryFrom": 1800.0,
+  "salaryTo": 2000.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "HYBRID",
+  "publishDate": "2026-10-22T13:27:40.000+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-21T23:59:59.999+00:00",
+  "keywords": [],
+  "firstSeen": "2026-10-22T17:15:29+00:00"
+ },
+ {
+  "id": 1672406,
+  "positionTitle": "Cloud security specialist",
+  "employerName": "Intrum Global Technologies",
+  "salaryFrom": 3800.0,
+  "salaryTo": 5700.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "HYBRID",
+  "publishDate": "2026-10-22T12:49:47.141+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-22T23:59:59.999+00:00",
+  "keywords": [
+   "Cloud security specialist",
+   "cloud"
+  ],
+  "firstSeen": "2026-10-22T17:15:29+00:00"
+ },
+ {
+  "id": 1672399,
+  "positionTitle": "Junior IT Operations Specialist",
+  "employerName": "Eleving Group",
+  "salaryFrom": 1800.0,
+  "salaryTo": 2300.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "HYBRID",
+  "publishDate": "2026-10-22T12:33:20.397+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-22T23:59:59.999+00:00",
+  "keywords": [
+   "Administrative Assistance",
+   "Jira",
+   "Organizational Effectiveness",
+   "Organizational Skills",
+   "Time Management Skills",
+   "Operational Planning",
+   "Interpersonal Communication",
+   "Data Analysis",
+   "Report Preparation"
+  ],
+  "firstSeen": "2026-10-22T17:15:29+00:00"
+ },
+ {
+  "id": 1672402,
+  "positionTitle": "Attīstības un finanšu plānošanas departamenta Finanšu nodaļas vecākais referents/-e",
+  "employerName": "LR Satiksmes ministrija",
+  "salaryFrom": 1800.0,
+  "salaryTo": 2000.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "ON_SITE",
+  "publishDate": "2026-10-22T12:28:07.895+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-10T23:59:59.999+00:00",
+  "keywords": [],
+  "firstSeen": "2026-10-22T17:15:29+00:00"
+ },
+ {
+  "id": 1672397,
+  "positionTitle": "Darba un vides aizsardzības speciālists",
+  "employerName": "AS Energofirma JAUDA",
+  "salaryFrom": 2000.0,
+  "salaryTo": 2500.0,
+  "hourlySalary": false,
+  "townId": 543,
+  "remoteWorkType": "ON_SITE",
+  "publishDate": "2026-10-22T12:28:02.000+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-05T23:59:59.999+00:00",
+  "keywords": [],
+  "firstSeen": "2026-10-22T17:15:29+00:00"
+ },
+ {
+  "id": 1672389,
+  "positionTitle": "Civilās aizsardzības speciālists/-e",
+  "employerName": "Visidarbi.lv klients",
+  "salaryFrom": 2000.0,
+  "salaryTo": null,
+  "hourlySalary": false,
+  "townId": 573,
+  "remoteWorkType": "ON_SITE",
+  "publishDate": "2026-10-22T12:16:49.005+00:00",
+  "renewedDate": null,
+  "expirationDate": "2026-11-12T23:59:59.999+00:00",
+  "keywords": [],
+  "firstSeen": "2026-10-22T17:15:29+00:00"
+ },
+ {
   "id": 1672377,
   "positionTitle": "Investīciju jomas vadītājs(-a) Finanšu tirgus nodaļā",
   "employerName": "Swedbank AS",
@@ -12,26 +216,6 @@
   "renewedDate": null,
   "expirationDate": "2026-11-05T23:59:59.999+00:00",
   "keywords": [],
-  "firstSeen": "2026-10-22T11:59:38+00:00"
- },
- {
-  "id": 1672374,
-  "positionTitle": "Jaunu un mazlietotu auto pārdevējs/-a",
-  "employerName": "LALUNA SIA",
-  "salaryFrom": 2000.0,
-  "salaryTo": 3500.0,
-  "hourlySalary": false,
-  "townId": 552,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-22T11:51:21.322+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-22T23:59:59.999+00:00",
-  "keywords": [
-   "Auto",
-   "Auto tirdzniecība",
-   "Jaunu auto pārdevējs",
-   "Mazlietotu auto pārdevējs"
-  ],
   "firstSeen": "2026-10-22T11:59:38+00:00"
  },
  {
@@ -84,21 +268,6 @@
   "firstSeen": "2026-10-22T11:59:38+00:00"
  },
  {
-  "id": 1672351,
-  "positionTitle": "Jurists/-e klientu apkalpošanas juridiskajos jautājumos",
-  "employerName": "Reģionālā investīciju banka, A/S",
-  "salaryFrom": 2200.0,
-  "salaryTo": 2700.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-22T11:20:34.538+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-22T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-22T11:59:38+00:00"
- },
- {
   "id": 1672335,
   "positionTitle": "Autogreidera vadītājs/-a ( Siguldas novads)",
   "employerName": "Visidarbi.lv klients",
@@ -134,30 +303,6 @@
   "firstSeen": "2026-10-22T11:59:38+00:00"
  },
  {
-  "id": 1672327,
-  "positionTitle": "Elektriķis /-e maiņās",
-  "employerName": "Valmieras stikla šķiedra AS ",
-  "salaryFrom": 2000.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 567,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-22T10:44:06.472+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-05T23:59:59.999+00:00",
-  "keywords": [
-   "elektronika",
-   "automātika",
-   "mehatronika",
-   "diagnostika",
-   "elektrotehnika",
-   "elektrības",
-   "maiņu darbs",
-   "elektroietaises"
-  ],
-  "firstSeen": "2026-10-22T11:59:38+00:00"
- },
- {
   "id": 1672314,
   "positionTitle": "Nodaļas vadītāja vietnieks/-e Sankciju izpildes nodaļā",
   "employerName": "Finanšu izlūkošanas dienests",
@@ -169,21 +314,6 @@
   "publishDate": "2026-10-22T10:14:06.011+00:00",
   "renewedDate": null,
   "expirationDate": "2026-11-15T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-22T11:59:38+00:00"
- },
- {
-  "id": 1672299,
-  "positionTitle": "Elektromontiera pakalpojumu koordinators/-e",
-  "employerName": "AM Furnitūra SIA",
-  "salaryFrom": 1800.0,
-  "salaryTo": 2000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-22T09:44:37.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-20T23:59:59.999+00:00",
   "keywords": [],
   "firstSeen": "2026-10-22T11:59:38+00:00"
  },
@@ -259,21 +389,6 @@
   "firstSeen": "2026-10-22T11:59:38+00:00"
  },
  {
-  "id": 1672280,
-  "positionTitle": "Eksporta pārdošanas speciālists/-e",
-  "employerName": "Eiro Personāls klients",
-  "salaryFrom": 3000.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 550,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-22T08:49:43.844+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-21T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-22T11:59:38+00:00"
- },
- {
   "id": 1672266,
   "positionTitle": "Business Operation Associate in Marketing (German speaking)",
   "employerName": "Roche Latvija, SIA",
@@ -310,21 +425,6 @@
   "firstSeen": "2026-10-22T11:59:38+00:00"
  },
  {
-  "id": 1672239,
-  "positionTitle": "Anesteziologs, reanimatologs",
-  "employerName": "SIA \"Rīgas 2.slimnīca\"",
-  "salaryFrom": 2972.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-22T08:01:57.347+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-22T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-22T11:59:38+00:00"
- },
- {
   "id": 1671212,
   "positionTitle": "Driver Support & Training instructor",
   "employerName": "Trales LV SIA",
@@ -349,39 +449,6 @@
   "townId": 543,
   "remoteWorkType": "ON_SITE",
   "publishDate": "2026-10-22T07:59:08.765+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-22T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-22T11:59:38+00:00"
- },
- {
-  "id": 1672234,
-  "positionTitle": "Traumatologs, ortopēds",
-  "employerName": "SIA \"Rīgas 2.slimnīca\"",
-  "salaryFrom": 2300.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-22T07:59:02.478+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-22T23:59:59.999+00:00",
-  "keywords": [
-   "ārsts",
-   "traumatologs"
-  ],
-  "firstSeen": "2026-10-22T11:59:38+00:00"
- },
- {
-  "id": 1672229,
-  "positionTitle": "Kardiologs",
-  "employerName": "SIA \"Rīgas 2.slimnīca\"",
-  "salaryFrom": 2000.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-22T07:52:58.438+00:00",
   "renewedDate": null,
   "expirationDate": "2026-11-22T23:59:59.999+00:00",
   "keywords": [],
@@ -418,69 +485,6 @@
   "firstSeen": "2026-10-22T11:59:38+00:00"
  },
  {
-  "id": 1672219,
-  "positionTitle": "Senior Fullstack Developer (.NET/Angular) - Customer Portal",
-  "employerName": "Atea Global Services",
-  "salaryFrom": 4000.0,
-  "salaryTo": 4800.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-22T07:22:00.166+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-22T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-22T11:59:38+00:00"
- },
- {
-  "id": 1672213,
-  "positionTitle": "Kreditora grāmatvedis",
-  "employerName": "SIA Baltic Photonics",
-  "salaryFrom": 2200.0,
-  "salaryTo": 2500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-22T07:17:44.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-06T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-22T11:59:38+00:00"
- },
- {
-  "id": 1672206,
-  "positionTitle": "Pārdošanas speciālists/-e pa telefonu",
-  "employerName": "Cityfinances SIA",
-  "salaryFrom": 1600.0,
-  "salaryTo": 3000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-22T06:58:32.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-22T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-22T11:59:38+00:00"
- },
- {
-  "id": 1672205,
-  "positionTitle": "Atslēdznieki/-ces",
-  "employerName": "EVOPIPES SIA ",
-  "salaryFrom": 1900.0,
-  "salaryTo": 2100.0,
-  "hourlySalary": false,
-  "townId": 553,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-22T06:51:14.433+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-06T23:59:59.999+00:00",
-  "keywords": [
-   "atslēdzinieks",
-   "ražošana"
-  ],
-  "firstSeen": "2026-10-22T11:59:38+00:00"
- },
- {
   "id": 1672204,
   "positionTitle": "Maiņas vadītāji/-as cauruļu ražošanas nodaļā",
   "employerName": "EVOPIPES SIA ",
@@ -499,39 +503,6 @@
   "firstSeen": "2026-10-22T11:59:38+00:00"
  },
  {
-  "id": 1672200,
-  "positionTitle": "Cauruļu ražošanas līniju operators/-e",
-  "employerName": "EVOPIPES SIA ",
-  "salaryFrom": 2200.0,
-  "salaryTo": 2477.0,
-  "hourlySalary": false,
-  "townId": 553,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-22T06:47:38.473+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-06T23:59:59.999+00:00",
-  "keywords": [
-   "ražošana",
-   "ražošanas darbinieks"
-  ],
-  "firstSeen": "2026-10-22T11:59:38+00:00"
- },
- {
-  "id": 1672194,
-  "positionTitle": "Mehāniķis - inženieris",
-  "employerName": "KRONOSPAN Riga SIA",
-  "salaryFrom": 2500.0,
-  "salaryTo": 3000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-22T06:42:28.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-22T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-22T11:59:38+00:00"
- },
- {
   "id": 1672193,
   "positionTitle": "Transporta un apsaimniekošanas nodaļas vadītājs/-a",
   "employerName": "Rīgas meži",
@@ -544,25 +515,6 @@
   "renewedDate": null,
   "expirationDate": "2026-11-05T23:59:59.999+00:00",
   "keywords": [],
-  "firstSeen": "2026-10-22T11:59:38+00:00"
- },
- {
-  "id": 1672185,
-  "positionTitle": "Konstruktors/-e",
-  "employerName": "KOMFOVENT SIA",
-  "salaryFrom": 2500.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-22T06:20:19.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-22T23:59:59.999+00:00",
-  "keywords": [
-   "Kvalitātes vadība",
-   "ISO",
-   "Kvalitātes inženieris"
-  ],
   "firstSeen": "2026-10-22T11:59:38+00:00"
  },
  {
@@ -581,21 +533,6 @@
   "firstSeen": "2026-10-22T11:59:38+00:00"
  },
  {
-  "id": 1672171,
-  "positionTitle": "Būvdarbu vadītājs/-a",
-  "employerName": "Visidarbi.lv klients",
-  "salaryFrom": 3500.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-22T06:00:12.996+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-21T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-22T11:59:38+00:00"
- },
- {
   "id": 1672161,
   "positionTitle": "Radioelektronikas inženieris / e",
   "employerName": "Rīgas satiksme RP SIA",
@@ -609,27 +546,6 @@
   "expirationDate": "2026-11-11T23:59:59.999+00:00",
   "keywords": [],
   "firstSeen": "2026-10-22T11:59:38+00:00"
- },
- {
-  "id": 1670661,
-  "positionTitle": "Jaunākais/-ā Jurists/-e / Jurists/-e Korporatīvo tiesību un M&A jomā",
-  "employerName": "KPMG Baltics SIA",
-  "salaryFrom": 1500.0,
-  "salaryTo": 2400.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-22T00:00:00.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-22T23:59:59.999+00:00",
-  "keywords": [
-   "PwC",
-   "Deloitte",
-   "KPMG",
-   "Big 4",
-   "EY"
-  ],
-  "firstSeen": "2026-10-22T04:56:30+00:00"
  },
  {
   "id": 1672015,
@@ -728,36 +644,6 @@
   "firstSeen": "2026-10-21T18:41:38+00:00"
  },
  {
-  "id": 1672003,
-  "positionTitle": "Elektromontieris/Brigadieris (komandējumi uz Vāciju)",
-  "employerName": "Visidarbi.lv klients",
-  "salaryFrom": 2200.0,
-  "salaryTo": 4500.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-21T14:03:13.894+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-20T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-21T18:41:38+00:00"
- },
- {
-  "id": 1671997,
-  "positionTitle": "Grāmatvedis/-e",
-  "employerName": "LIVIKO SIA",
-  "salaryFrom": 1500.0,
-  "salaryTo": 2000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-21T13:59:13.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-30T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-21T18:41:38+00:00"
- },
- {
   "id": 1671995,
   "positionTitle": "Lielo klientu vadītājs/-a",
   "employerName": "WorkingDay Latvia",
@@ -814,31 +700,6 @@
   "firstSeen": "2026-10-21T13:52:10+00:00"
  },
  {
-  "id": 1671989,
-  "positionTitle": "Būvinženieris/-e (Hidrotehnisko būvju būvniecības nodaļā)",
-  "employerName": "Latvenergo AS",
-  "salaryFrom": 2500.0,
-  "salaryTo": 3000.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-21T13:36:45.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-04T23:59:59.999+00:00",
-  "keywords": [
-   "hidrotehniskās būves",
-   "būvinženieris",
-   "projektēšana",
-   "būvuzraudzība",
-   "inženierzinātnes",
-   "infraestructure",
-   "MS Office",
-   "MS Project",
-   "AutoCad"
-  ],
-  "firstSeen": "2026-10-21T13:52:10+00:00"
- },
- {
   "id": 1671981,
   "positionTitle": "Sales assistant",
   "employerName": "SIA Aerones Engineering",
@@ -869,21 +730,6 @@
   "firstSeen": "2026-10-21T13:52:10+00:00"
  },
  {
-  "id": 1671972,
-  "positionTitle": "Jurists/-e",
-  "employerName": "PICHE SIA",
-  "salaryFrom": 2500.0,
-  "salaryTo": 3000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-21T13:15:51.187+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-21T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-21T13:52:10+00:00"
- },
- {
   "id": 1671926,
   "positionTitle": "GRENARDI zīmola mārketinga vadītāju",
   "employerName": "GIVEN LATVIA, SIA",
@@ -899,38 +745,6 @@
   "firstSeen": "2026-10-21T13:52:10+00:00"
  },
  {
-  "id": 1671957,
-  "positionTitle": "Surveyor",
-  "employerName": "Kuzu Toplu Konut A.S",
-  "salaryFrom": 3300.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-21T12:49:19.290+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-21T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-21T13:52:10+00:00"
- },
- {
-  "id": 1670084,
-  "positionTitle": "HoReCa pārdošanas pārstāvis/-e Vidzemē un Rīgas rajonā",
-  "employerName": "Orkla Latvija SIA",
-  "salaryFrom": 1300.0,
-  "salaryTo": 2100.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-21T12:41:22.566+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-21T23:59:59.999+00:00",
-  "keywords": [
-   "Orkla Latvija"
-  ],
-  "firstSeen": "2026-10-21T13:52:10+00:00"
- },
- {
   "id": 1671950,
   "positionTitle": "Electrical Works Engineer",
   "employerName": "Kuzu Toplu Konut A.S",
@@ -940,21 +754,6 @@
   "townId": 543,
   "remoteWorkType": "ON_SITE",
   "publishDate": "2026-10-21T12:38:57.504+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-21T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-21T13:52:10+00:00"
- },
- {
-  "id": 1671941,
-  "positionTitle": "Radiogrāfers vai radiologa asistents",
-  "employerName": "Hanzas diagnostika SIA",
-  "salaryFrom": 1000.0,
-  "salaryTo": 4500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-21T12:28:07.029+00:00",
   "renewedDate": null,
   "expirationDate": "2026-11-21T23:59:59.999+00:00",
   "keywords": [],
@@ -1041,21 +840,6 @@
   "firstSeen": "2026-10-21T13:52:10+00:00"
  },
  {
-  "id": 1671878,
-  "positionTitle": "Quantity Surveyor",
-  "employerName": "Kuzu Toplu Konut A.S",
-  "salaryFrom": 4000.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-21T11:38:03.912+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-21T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-21T13:52:10+00:00"
- },
- {
   "id": 1671877,
   "positionTitle": "Krājumu vadības un datu analīzes speciālists/-e",
   "employerName": "Lenoka SIA ",
@@ -1065,36 +849,6 @@
   "townId": 543,
   "remoteWorkType": "ON_SITE",
   "publishDate": "2026-10-21T11:33:49.787+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-21T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-21T13:52:10+00:00"
- },
- {
-  "id": 1671258,
-  "positionTitle": "Tirdzniecības pārstāvis / vietējās filiāles vadītājs",
-  "employerName": "HUPPA LV SIA",
-  "salaryFrom": 2800.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-21T11:31:02.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-21T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-21T13:52:10+00:00"
- },
- {
-  "id": 1671871,
-  "positionTitle": "Site Manager (Construction)",
-  "employerName": "Kuzu Toplu Konut A.S",
-  "salaryFrom": 4500.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-21T11:22:22.162+00:00",
   "renewedDate": null,
   "expirationDate": "2026-11-21T23:59:59.999+00:00",
   "keywords": [],
@@ -1158,21 +912,6 @@
   "firstSeen": "2026-10-21T13:52:10+00:00"
  },
  {
-  "id": 1671862,
-  "positionTitle": "Construction Manager",
-  "employerName": "Kuzu Toplu Konut A.S",
-  "salaryFrom": 5500.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-21T11:10:10.207+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-21T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-21T13:52:10+00:00"
- },
- {
   "id": 1671861,
   "positionTitle": "Aprēķinu speciālists/-e",
   "employerName": "Meža eksperti SIA",
@@ -1199,21 +938,6 @@
   "publishDate": "2026-10-21T10:42:12.660+00:00",
   "renewedDate": null,
   "expirationDate": "2026-11-21T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-21T13:52:10+00:00"
- },
- {
-  "id": 1671849,
-  "positionTitle": "Vecākais/ā grāmatvedis/e Grāmatvedības uzskaites grupā",
-  "employerName": "MAXIMA Latvija SIA",
-  "salaryFrom": 2000.0,
-  "salaryTo": 2400.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-21T10:28:36.864+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-20T23:59:59.999+00:00",
   "keywords": [],
   "firstSeen": "2026-10-21T13:52:10+00:00"
  },
@@ -1251,25 +975,6 @@
    "Sabiedriskās attiecības",
    "Freelancing",
    "Copywriter"
-  ],
-  "firstSeen": "2026-10-21T13:52:10+00:00"
- },
- {
-  "id": 1671837,
-  "positionTitle": "Konstruktors/-e - inženieris/-e",
-  "employerName": "Medzes components SIA",
-  "salaryFrom": 1900.0,
-  "salaryTo": 2200.0,
-  "hourlySalary": false,
-  "townId": 556,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-21T10:09:58.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-05T23:59:59.999+00:00",
-  "keywords": [
-   "inženieris",
-   "konstruktors",
-   "3d"
   ],
   "firstSeen": "2026-10-21T13:52:10+00:00"
  },
@@ -1342,38 +1047,6 @@
   "firstSeen": "2026-10-21T13:52:10+00:00"
  },
  {
-  "id": 1671811,
-  "positionTitle": ".NET izstrādātājs/-a",
-  "employerName": "BluOr Bank AS",
-  "salaryFrom": 4000.0,
-  "salaryTo": 5000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-21T09:23:58.918+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-21T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-21T13:52:10+00:00"
- },
- {
-  "id": 1671797,
-  "positionTitle": "Jaunākais grāmatvedis",
-  "employerName": "INVL Asset Management IPAS",
-  "salaryFrom": 1500.0,
-  "salaryTo": 2000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-21T09:20:04.278+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-04T23:59:59.999+00:00",
-  "keywords": [
-   "Grāmatvedis"
-  ],
-  "firstSeen": "2026-10-21T13:52:10+00:00"
- },
- {
   "id": 1671786,
   "positionTitle": "Quality Assurance Lead",
   "employerName": "Atea Global Services",
@@ -1416,33 +1089,6 @@
   "renewedDate": null,
   "expirationDate": "2026-11-04T23:59:59.999+00:00",
   "keywords": [],
-  "firstSeen": "2026-10-21T13:52:10+00:00"
- },
- {
-  "id": 1671753,
-  "positionTitle": "Automašīnu rezerves daļu pārdevējs",
-  "employerName": "AD Baltic SIA",
-  "salaryFrom": 1200.0,
-  "salaryTo": 2000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-21T08:07:38.668+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-21T23:59:59.999+00:00",
-  "keywords": [
-   "auto rezerves daļas",
-   "automašīnu rezerves daļas",
-   "parts salesperson",
-   "parts specialist",
-   "klientu apkalpošana",
-   "aktīvā pārdošana",
-   "vieglās automašīnas",
-   "aftermarket",
-   "auto detaļas",
-   "auto mehāniķis",
-   "servisa konsultants"
-  ],
   "firstSeen": "2026-10-21T13:52:10+00:00"
  },
  {
@@ -1672,21 +1318,6 @@
   "firstSeen": "2026-10-21T00:39:33+00:00"
  },
  {
-  "id": 1671526,
-  "positionTitle": "Backend Developer (.NET)",
-  "employerName": "Atea Global Services",
-  "salaryFrom": 3500.0,
-  "salaryTo": 4700.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-20T18:44:23.993+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-20T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-20T21:41:06+00:00"
- },
- {
   "id": 1671521,
   "positionTitle": "Projektu vadītājs",
   "employerName": "SIA Diamond Logistic",
@@ -1767,28 +1398,6 @@
   "renewedDate": null,
   "expirationDate": "2026-11-20T23:59:59.999+00:00",
   "keywords": [],
-  "firstSeen": "2026-10-20T17:14:44+00:00"
- },
- {
-  "id": 1671502,
-  "positionTitle": "Tiki-Taka Pay aktīvās pārdošanas speciālists/-e",
-  "employerName": "Datakom SIA",
-  "salaryFrom": 2200.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-20T15:06:12.181+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-19T23:59:59.999+00:00",
-  "keywords": [
-   "TikiTaka",
-   "Pārdošana",
-   "Aktīvā pārdošana",
-   "Klientu piesaiste",
-   "Finanšu tehnoloģijas",
-   "Maksājumu risinājumi"
-  ],
   "firstSeen": "2026-10-20T17:14:44+00:00"
  },
  {
@@ -1901,21 +1510,6 @@
   "firstSeen": "2026-10-20T17:14:44+00:00"
  },
  {
-  "id": 1671479,
-  "positionTitle": "Būvdarbu vadītājs",
-  "employerName": "PICHE SIA",
-  "salaryFrom": 3500.0,
-  "salaryTo": 4300.0,
-  "hourlySalary": false,
-  "townId": 621,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-20T13:24:01.495+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-20T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-20T17:14:44+00:00"
- },
- {
   "id": 1671469,
   "positionTitle": "Publisko iepirkumu speciālists/-e",
   "employerName": "Enertek SIA",
@@ -1925,21 +1519,6 @@
   "townId": 621,
   "remoteWorkType": "HYBRID",
   "publishDate": "2026-10-20T13:12:43.069+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-20T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-20T17:14:44+00:00"
- },
- {
-  "id": 1671401,
-  "positionTitle": "Jurists/-e, jurista palīgs/-dze",
-  "employerName": "SF MGMT collateral",
-  "salaryFrom": 2000.0,
-  "salaryTo": 2600.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-20T13:12:36.221+00:00",
   "renewedDate": null,
   "expirationDate": "2026-11-20T23:59:59.999+00:00",
   "keywords": [],
@@ -1976,71 +1555,6 @@
   "firstSeen": "2026-10-20T17:14:44+00:00"
  },
  {
-  "id": 1671455,
-  "positionTitle": "C kategorijas autovadītājs/-a Rīgā",
-  "employerName": "Baltic Logistic Solutions SIA",
-  "salaryFrom": 1890.0,
-  "salaryTo": 2565.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-20T12:51:02.937+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-19T23:59:59.999+00:00",
-  "keywords": [
-   "C kategorija",
-   "autovadītājs",
-   "pārtikas piegāde",
-   "Rīga",
-   "loģistika"
-  ],
-  "firstSeen": "2026-10-20T17:14:44+00:00"
- },
- {
-  "id": 1671447,
-  "positionTitle": "CE kategorijas autovadītājs Rīgā",
-  "employerName": "Baltic Logistic Solutions SIA",
-  "salaryFrom": 1815.0,
-  "salaryTo": 2340.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-20T12:47:59.017+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-19T23:59:59.999+00:00",
-  "keywords": [
-   "autovadītājs",
-   "CE kategorija",
-   "transports",
-   "piegādes",
-   "Rāmava",
-   "loģistika"
-  ],
-  "firstSeen": "2026-10-20T17:14:44+00:00"
- },
- {
-  "id": 1671445,
-  "positionTitle": "B kategorijas autovadītājs/-a Rīgā",
-  "employerName": "Baltic Logistic Solutions SIA",
-  "salaryFrom": 1440.0,
-  "salaryTo": 2040.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-20T12:46:35.442+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-19T23:59:59.999+00:00",
-  "keywords": [
-   "B kategorijas vadītājs",
-   "piegādes autovadītājs",
-   "loģistika",
-   "kravas furgons",
-   "Rīga",
-   "starptautisks uzņēmums"
-  ],
-  "firstSeen": "2026-10-20T17:14:44+00:00"
- },
- {
   "id": 1671432,
   "positionTitle": "Zāļu un medicīnisko ierīču departamenta  Zāļu novērtēšanas nodaļas vadītāja vietnieks/-ce",
   "employerName": "Nacionālais veselības dienests",
@@ -2052,21 +1566,6 @@
   "publishDate": "2026-10-20T12:43:42.000+00:00",
   "renewedDate": null,
   "expirationDate": "2026-10-30T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-20T17:14:44+00:00"
- },
- {
-  "id": 1671297,
-  "positionTitle": "Jurists/-e",
-  "employerName": " INDEXO Banka AS",
-  "salaryFrom": 2800.0,
-  "salaryTo": 3500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-20T12:42:27.346+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-12T23:59:59.999+00:00",
   "keywords": [],
   "firstSeen": "2026-10-20T17:14:44+00:00"
  },
@@ -2163,25 +1662,6 @@
   "firstSeen": "2026-10-20T17:14:44+00:00"
  },
  {
-  "id": 1671396,
-  "positionTitle": "Ārsts ķirurgs (ar vēlmi apgūt fleboloģiju vai proktoloģiju)",
-  "employerName": "FLEBOMEDIKA SIA",
-  "salaryFrom": 55.0,
-  "salaryTo": 55.0,
-  "hourlySalary": true,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-20T12:26:49.130+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-20T23:59:59.999+00:00",
-  "keywords": [
-   "ķirurgs",
-   "flebologs",
-   "proktologs"
-  ],
-  "firstSeen": "2026-10-20T17:14:44+00:00"
- },
- {
   "id": 1671408,
   "positionTitle": "Senior Credit Risk Modeller",
   "employerName": "Swedbank AS",
@@ -2258,21 +1738,6 @@
   "firstSeen": "2026-10-20T11:45:38+00:00"
  },
  {
-  "id": 1671373,
-  "positionTitle": "Elektriķis/-e",
-  "employerName": "Balticom AS",
-  "salaryFrom": 2300.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-20T11:19:00.715+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-04T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-20T11:45:38+00:00"
- },
- {
   "id": 1671362,
   "positionTitle": "Jauno klientu akceptācijas analītiķis/-e",
   "employerName": "Reģionālā investīciju banka, A/S",
@@ -2285,50 +1750,6 @@
   "renewedDate": null,
   "expirationDate": "2026-11-20T23:59:59.999+00:00",
   "keywords": [],
-  "firstSeen": "2026-10-20T11:45:38+00:00"
- },
- {
-  "id": 1671351,
-  "positionTitle": "Tāmētājs/-a",
-  "employerName": "CV-Online Recruitment",
-  "salaryFrom": 3000.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 621,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-20T10:56:23.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-20T23:59:59.999+00:00",
-  "keywords": [
-   "pmg",
-   "p.m.g.",
-   "tāmētājs",
-   "būvniecība",
-   "celtniecības",
-   "tehniskās zinātnes",
-   "tāmēšana",
-   "tāmēt",
-   "tāmētāja",
-   "darbs mārupē",
-   "mārupe"
-  ],
-  "firstSeen": "2026-10-20T11:45:38+00:00"
- },
- {
-  "id": 1671335,
-  "positionTitle": "Ceļu būves nozares brigadieris/-e",
-  "employerName": "KULK SIA",
-  "salaryFrom": 2000.0,
-  "salaryTo": 2500.0,
-  "hourlySalary": false,
-  "townId": 553,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-20T10:38:36.881+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-20T23:59:59.999+00:00",
-  "keywords": [
-   "brigadieris"
-  ],
   "firstSeen": "2026-10-20T11:45:38+00:00"
  },
  {
@@ -2671,21 +2092,6 @@
   "firstSeen": "2026-10-20T11:45:38+00:00"
  },
  {
-  "id": 1671234,
-  "positionTitle": "Mehatronikas iekārtu montieris/-e",
-  "employerName": "My HR SIA",
-  "salaryFrom": 3600.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-20T07:49:14.042+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-20T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-20T11:45:38+00:00"
- },
- {
   "id": 1671225,
   "positionTitle": "Korporatīvo klientu vadītājs/-a (AC&REF produktu kategoriju grupā)",
   "employerName": "Onninen SIA",
@@ -2868,48 +2274,6 @@
   "firstSeen": "2026-10-20T11:45:38+00:00"
  },
  {
-  "id": 1670964,
-  "positionTitle": "Atbildīgais būvdarbu vadītājs/-a",
-  "employerName": "Pillar Contractor, SIA",
-  "salaryFrom": 2800.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-19T15:31:17.503+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-19T23:59:59.999+00:00",
-  "keywords": [
-   "buvdarbu",
-   "buvdarbuvaditajs",
-   "būvdarbu vadītājs",
-   "būvdarbu",
-   "būvniecība"
-  ],
-  "firstSeen": "2026-10-19T19:58:43+00:00"
- },
- {
-  "id": 1670963,
-  "positionTitle": "Būvdarbu vadītājs/-a",
-  "employerName": "Pillar Contractor, SIA",
-  "salaryFrom": 2500.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-19T15:30:51.919+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-19T23:59:59.999+00:00",
-  "keywords": [
-   "buvdarbu",
-   "buvdarbuvaditajs",
-   "būvdarbu vadītājs",
-   "būvdarbu",
-   "būvniecība"
-  ],
-  "firstSeen": "2026-10-19T19:58:43+00:00"
- },
- {
   "id": 1670962,
   "positionTitle": "Kvalitātes kontroles speciālists/-e",
   "employerName": "Pillar Contractor, SIA",
@@ -2936,39 +2300,6 @@
   "publishDate": "2026-10-19T15:00:10.784+00:00",
   "renewedDate": null,
   "expirationDate": "2026-11-18T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-19T19:58:43+00:00"
- },
- {
-  "id": 1670943,
-  "positionTitle": "Autoelektriķis/-e",
-  "employerName": "AS Mapon",
-  "salaryFrom": 2400.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-19T14:57:08.867+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-19T23:59:59.999+00:00",
-  "keywords": [
-   "Mapon",
-   "Autoelektriķis"
-  ],
-  "firstSeen": "2026-10-19T19:58:43+00:00"
- },
- {
-  "id": 1670953,
-  "positionTitle": "Grāmatveža palīgs/-dze",
-  "employerName": "KREISS SIA",
-  "salaryFrom": 1600.0,
-  "salaryTo": 2000.0,
-  "hourlySalary": false,
-  "townId": 621,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-19T14:53:19.612+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-19T23:59:59.999+00:00",
   "keywords": [],
   "firstSeen": "2026-10-19T19:58:43+00:00"
  },
@@ -3031,23 +2362,6 @@
   "renewedDate": null,
   "expirationDate": "2026-11-19T23:59:59.999+00:00",
   "keywords": [],
-  "firstSeen": "2026-10-19T19:58:43+00:00"
- },
- {
-  "id": 1670930,
-  "positionTitle": "RAŽOŠANAS iekārtas operators/-e",
-  "employerName": "Eiroplasts SIA",
-  "salaryFrom": 1680.0,
-  "salaryTo": 2750.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-19T13:52:28.134+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-19T23:59:59.999+00:00",
-  "keywords": [
-   "Ražošana"
-  ],
   "firstSeen": "2026-10-19T19:58:43+00:00"
  },
  {
@@ -3141,21 +2455,6 @@
   "firstSeen": "2026-10-19T13:26:58+00:00"
  },
  {
-  "id": 1670899,
-  "positionTitle": "Jurists/-e",
-  "employerName": "Rīgas meži",
-  "salaryFrom": 2100.0,
-  "salaryTo": 2300.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-19T13:07:52.261+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-01T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-19T13:26:58+00:00"
- },
- {
   "id": 1670883,
   "positionTitle": "Compensation and Benefits Senior Specialist",
   "employerName": "Dyninno Technologies (Dynatech)",
@@ -3194,21 +2493,6 @@
   "townId": 543,
   "remoteWorkType": "ON_SITE",
   "publishDate": "2026-10-19T12:45:13.158+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-19T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-19T13:26:58+00:00"
- },
- {
-  "id": 1670874,
-  "positionTitle": "Mehāniķis/e",
-  "employerName": "Airīšu purvs SIA",
-  "salaryFrom": 2000.0,
-  "salaryTo": 2500.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-19T12:41:11.175+00:00",
   "renewedDate": null,
   "expirationDate": "2026-11-19T23:59:59.999+00:00",
   "keywords": [],
@@ -3351,25 +2635,6 @@
   "firstSeen": "2026-10-19T13:26:58+00:00"
  },
  {
-  "id": 1670806,
-  "positionTitle": "Full-stack programmētājs/-a",
-  "employerName": "VIDI WOODS SIA",
-  "salaryFrom": 2500.0,
-  "salaryTo": 3500.0,
-  "hourlySalary": false,
-  "townId": 553,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-19T12:11:46.715+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-19T23:59:59.999+00:00",
-  "keywords": [
-   "Laravel",
-   "PHP",
-   "Full stack"
-  ],
-  "firstSeen": "2026-10-19T13:26:58+00:00"
- },
- {
   "id": 1670848,
   "positionTitle": "Elektroinženieris/-e (Attīstības un izpētes dienests)",
   "employerName": "Augstsprieguma tīkls A/S",
@@ -3403,21 +2668,6 @@
    "Būvniecība",
    "Būvniecības projekti"
   ],
-  "firstSeen": "2026-10-19T13:26:58+00:00"
- },
- {
-  "id": 1670825,
-  "positionTitle": "Grāmatvedis/-e",
-  "employerName": "A/S NEO",
-  "salaryFrom": 1700.0,
-  "salaryTo": 2000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-19T11:47:38.629+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-19T23:59:59.999+00:00",
-  "keywords": [],
   "firstSeen": "2026-10-19T13:26:58+00:00"
  },
  {
@@ -3466,21 +2716,6 @@
   "firstSeen": "2026-10-19T13:26:58+00:00"
  },
  {
-  "id": 1670823,
-  "positionTitle": "Būvdarbu vadītājs",
-  "employerName": "SCM Latvia SIA",
-  "salaryFrom": 2400.0,
-  "salaryTo": 3500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-19T11:38:52.950+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-19T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-19T13:26:58+00:00"
- },
- {
   "id": 1670816,
   "positionTitle": "Personāla atlases speciālists/e",
   "employerName": "Reaton ",
@@ -3493,24 +2728,6 @@
   "renewedDate": null,
   "expirationDate": "2026-11-19T23:59:59.999+00:00",
   "keywords": [],
-  "firstSeen": "2026-10-19T13:26:58+00:00"
- },
- {
-  "id": 1670813,
-  "positionTitle": "Būvdarbu vadītājs/-a",
-  "employerName": "Selva Būve SIA",
-  "salaryFrom": 2700.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-19T11:26:39.209+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-19T23:59:59.999+00:00",
-  "keywords": [
-   "Būvdarbu vadīšana",
-   "Būvlaukums, inženieris"
-  ],
   "firstSeen": "2026-10-19T13:26:58+00:00"
  },
  {
@@ -3550,21 +2767,6 @@
   "publishDate": "2026-10-19T11:07:32.507+00:00",
   "renewedDate": null,
   "expirationDate": "2026-11-06T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-19T13:26:58+00:00"
- },
- {
-  "id": 1670792,
-  "positionTitle": "Jurists/-e",
-  "employerName": "EVA-SAT SIA",
-  "salaryFrom": 2000.0,
-  "salaryTo": 2600.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-19T11:01:43.393+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-19T23:59:59.999+00:00",
   "keywords": [],
   "firstSeen": "2026-10-19T13:26:58+00:00"
  },
@@ -3653,31 +2855,6 @@
   "firstSeen": "2026-10-19T13:26:58+00:00"
  },
  {
-  "id": 1670743,
-  "positionTitle": "Ražošanas projektu vadītājs/-a - tāmētājs/-a",
-  "employerName": "TOGET SIA",
-  "salaryFrom": 1800.0,
-  "salaryTo": 3000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-19T09:41:26.712+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-19T23:59:59.999+00:00",
-  "keywords": [
-   "projektu vadītājs",
-   "tāmētājs",
-   "metālapstrāde",
-   "metāla konstrukcijas",
-   "būvniecība",
-   "ražošana",
-   "tāmes",
-   "cenu piedāvājumi",
-   "pārdošana"
-  ],
-  "firstSeen": "2026-10-19T13:26:58+00:00"
- },
- {
   "id": 1670728,
   "positionTitle": "Kvalitātes speciālists",
   "employerName": "SIA TS Rīga",
@@ -3711,46 +2888,6 @@
    "riga",
    "Stelpe"
   ],
-  "firstSeen": "2026-10-19T13:26:58+00:00"
- },
- {
-  "id": 1670727,
-  "positionTitle": "Apģērbu konstruktors/-e",
-  "employerName": "CV-Online Recruitment",
-  "salaryFrom": 2000.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 564,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-19T09:15:29.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-19T23:59:59.999+00:00",
-  "keywords": [
-   "apģērbu konstruktors",
-   "apģērbu konstruktore",
-   "pakalpojumi",
-   "ražošana",
-   "tehniskās zinātnes",
-   "Snickers Production Latvia",
-   "konstruktors",
-   "modelētājs",
-   "modelētāja"
-  ],
-  "firstSeen": "2026-10-19T13:26:58+00:00"
- },
- {
-  "id": 1670722,
-  "positionTitle": "Galvenais grāmatvedis/-e",
-  "employerName": "VSIA \"Šampētera nams\"",
-  "salaryFrom": 2000.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-19T09:08:24.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-02T23:59:59.999+00:00",
-  "keywords": [],
   "firstSeen": "2026-10-19T13:26:58+00:00"
  },
  {
@@ -3800,65 +2937,6 @@
    "jūra",
    "kuģu",
    "darbs"
-  ],
-  "firstSeen": "2026-10-19T13:26:58+00:00"
- },
- {
-  "id": 1670711,
-  "positionTitle": "Ekskavatorists",
-  "employerName": "Visidarbi.lv klients",
-  "salaryFrom": 3500.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-19T08:47:27.335+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-18T23:59:59.999+00:00",
-  "keywords": [
-   "watel",
-   "watel gmbh",
-   "ekskavatora vadītājs"
-  ],
-  "firstSeen": "2026-10-19T13:26:58+00:00"
- },
- {
-  "id": 1670706,
-  "positionTitle": "Autovadītājs–palīgstrādnieks (B, C, CE kategorijas)",
-  "employerName": "Visidarbi.lv klients",
-  "salaryFrom": 4000.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-19T08:46:38.679+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-18T23:59:59.999+00:00",
-  "keywords": [
-   "watel",
-   "watel gmbh",
-   "šoferis",
-   "Водитель"
-  ],
-  "firstSeen": "2026-10-19T13:26:58+00:00"
- },
- {
-  "id": 1670705,
-  "positionTitle": "Palīgstrādnieks ar B kategorijas autovadītāja apliecību darbam Vācijā",
-  "employerName": "Visidarbi.lv klients",
-  "salaryFrom": 3000.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-19T08:45:52.710+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-18T23:59:59.999+00:00",
-  "keywords": [
-   "watel",
-   "watel gmbh",
-   "šoferis",
-   "Водитель"
   ],
   "firstSeen": "2026-10-19T13:26:58+00:00"
  },
@@ -3929,21 +3007,6 @@
   "firstSeen": "2026-10-19T13:26:58+00:00"
  },
  {
-  "id": 1670673,
-  "positionTitle": "Projektu inženiertehniskās nodaļas GALVENAIS BŪVINŽENIERIS",
-  "employerName": "Rīgas valstspilsētas pašvaldības Ārtelpas un mobilitātes departaments",
-  "salaryFrom": 2440.0,
-  "salaryTo": 2440.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-19T08:08:53.283+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-28T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-19T13:26:58+00:00"
- },
- {
   "id": 1670671,
   "positionTitle": "Program Manager – Baltic Countries",
   "employerName": "Redwire Defense Tech Riga",
@@ -3997,51 +3060,6 @@
   "firstSeen": "2026-10-19T13:26:58+00:00"
  },
  {
-  "id": 1670656,
-  "positionTitle": "Auto pārdevējs/-a - konsultants/-e (Mārupe)",
-  "employerName": "WESS AS",
-  "salaryFrom": 1500.0,
-  "salaryTo": 3500.0,
-  "hourlySalary": false,
-  "townId": 621,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-19T07:42:20.933+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-19T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-19T13:26:58+00:00"
- },
- {
-  "id": 1670652,
-  "positionTitle": "Auto pārdevējs/-a - konsultants/-e (Berģi)",
-  "employerName": "WESS AS",
-  "salaryFrom": 1500.0,
-  "salaryTo": 3500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-19T07:39:56.215+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-19T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-19T13:26:58+00:00"
- },
- {
-  "id": 1670598,
-  "positionTitle": "Senior .NET Full-stack Developer for Industrial Risk Systems",
-  "employerName": "If P&C Insurance AS Latvijas filiāle",
-  "salaryFrom": 4000.0,
-  "salaryTo": 5500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-19T07:21:52.708+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-12T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-19T13:26:58+00:00"
- },
- {
   "id": 1670641,
   "positionTitle": "Patēriņa kreditēšanas un analīzes speciālists",
   "employerName": " INDEXO Banka AS",
@@ -4066,21 +3084,6 @@
   "townId": 605,
   "remoteWorkType": "ON_SITE",
   "publishDate": "2026-10-19T06:58:28.202+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-19T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-19T13:26:58+00:00"
- },
- {
-  "id": 1670627,
-  "positionTitle": "Ēku konstrukciju būvinženieris/-e",
-  "employerName": "UPB AS",
-  "salaryFrom": 1900.0,
-  "salaryTo": 2800.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-19T06:57:45.572+00:00",
   "renewedDate": null,
   "expirationDate": "2026-11-19T23:59:59.999+00:00",
   "keywords": [],
@@ -4158,29 +3161,6 @@
   "firstSeen": "2026-10-19T13:26:58+00:00"
  },
  {
-  "id": 1670616,
-  "positionTitle": "Industriālais/-ā elektromehāniķis/-e",
-  "employerName": "SIA Orkla Biscuit Production",
-  "salaryFrom": 1800.0,
-  "salaryTo": 2400.0,
-  "hourlySalary": false,
-  "townId": 916,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-19T06:44:35.626+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-19T23:59:59.999+00:00",
-  "keywords": [
-   "Orkla",
-   "elektrība",
-   "mehānika",
-   "rūpnīca",
-   "ražotne",
-   "industrial",
-   "plc"
-  ],
-  "firstSeen": "2026-10-19T13:26:58+00:00"
- },
- {
   "id": 1670615,
   "positionTitle": "Automatizācijas speciālists/-e",
   "employerName": "SIA Orkla Biscuit Production",
@@ -4196,21 +3176,6 @@
    "PLC",
    "automatizācija"
   ],
-  "firstSeen": "2026-10-19T13:26:58+00:00"
- },
- {
-  "id": 1670613,
-  "positionTitle": "Mehatronikas speciālists/-e",
-  "employerName": "SIA Orkla Biscuit Production",
-  "salaryFrom": 2000.0,
-  "salaryTo": 2000.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-19T06:43:32.897+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-19T23:59:59.999+00:00",
-  "keywords": [],
   "firstSeen": "2026-10-19T13:26:58+00:00"
  },
  {
@@ -4305,21 +3270,6 @@
   "townId": 563,
   "remoteWorkType": "ON_SITE",
   "publishDate": "2026-10-19T06:00:30.321+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-19T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-19T13:26:58+00:00"
- },
- {
-  "id": 1670570,
-  "positionTitle": "Vecākais lauksaimniecības tehnikas mehāniķis Liepājā",
-  "employerName": "STOKKER SIA",
-  "salaryFrom": 1500.0,
-  "salaryTo": 2500.0,
-  "hourlySalary": false,
-  "townId": 556,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-19T05:43:00.045+00:00",
   "renewedDate": null,
   "expirationDate": "2026-11-19T23:59:59.999+00:00",
   "keywords": [],
@@ -4508,46 +3458,6 @@
   "firstSeen": "2026-10-16T18:07:15+00:00"
  },
  {
-  "id": 1670341,
-  "positionTitle": "CNC virpošanas iekārtu operators",
-  "employerName": "LATVIJAS FINIERIS, A/S",
-  "salaryFrom": 2100.0,
-  "salaryTo": 2400.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-16T13:59:17.670+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-15T23:59:59.999+00:00",
-  "keywords": [
-   "CNC",
-   "virpošana",
-   "iekārtu operators",
-   "metālapstrāde"
-  ],
-  "firstSeen": "2026-10-16T18:07:15+00:00"
- },
- {
-  "id": 1670338,
-  "positionTitle": "Elektropacēlāja vadītājs/-a",
-  "employerName": "Baltic Logistic Solutions SIA",
-  "salaryFrom": 1590.0,
-  "salaryTo": 2040.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-16T13:55:34.715+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-15T23:59:59.999+00:00",
-  "keywords": [
-   "elektropacēlājs",
-   "noliktava",
-   "reach truck",
-   "loģistika"
-  ],
-  "firstSeen": "2026-10-16T18:07:15+00:00"
- },
- {
   "id": 1670333,
   "positionTitle": "Enterprise Onboarding Specialist",
   "employerName": "AS Mapon",
@@ -4560,27 +3470,6 @@
   "renewedDate": null,
   "expirationDate": "2026-11-16T23:59:59.999+00:00",
   "keywords": [],
-  "firstSeen": "2026-10-16T18:07:15+00:00"
- },
- {
-  "id": 1670331,
-  "positionTitle": "Pasūtījumu komplektētājs/-a Termo noliktava (+2 °... +6 °, darbs naktī)",
-  "employerName": "Baltic Logistic Solutions SIA",
-  "salaryFrom": 1739.0,
-  "salaryTo": 2565.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-16T13:52:51.768+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-15T23:59:59.999+00:00",
-  "keywords": [
-   "komplektētājs",
-   "noliktava",
-   "nakts maiņas",
-   "pasūtījumu komplektēšana",
-   "logistika"
-  ],
   "firstSeen": "2026-10-16T18:07:15+00:00"
  },
  {
@@ -4633,26 +3522,6 @@
   "renewedDate": null,
   "expirationDate": "2026-11-16T23:59:59.999+00:00",
   "keywords": [],
-  "firstSeen": "2026-10-16T18:07:15+00:00"
- },
- {
-  "id": 1670327,
-  "positionTitle": "Pasūtījumu komplektētājs/-a (darbs naktīs)",
-  "employerName": "Baltic Logistic Solutions SIA",
-  "salaryFrom": 1589.0,
-  "salaryTo": 2415.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-16T13:50:25.307+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-15T23:59:59.999+00:00",
-  "keywords": [
-   "komplektētājs",
-   "noliktava",
-   "loģistika",
-   "nakts darbs"
-  ],
   "firstSeen": "2026-10-16T18:07:15+00:00"
  },
  {
@@ -4750,26 +3619,6 @@
   "firstSeen": "2026-10-16T18:07:15+00:00"
  },
  {
-  "id": 1670284,
-  "positionTitle": "Galvenais/-ā/ grāmatvedis/-e/ Chief Accountant",
-  "employerName": "Atlas Aerospace",
-  "salaryFrom": 3000.0,
-  "salaryTo": 3500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-16T13:08:20.650+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-16T23:59:59.999+00:00",
-  "keywords": [
-   "accounting",
-   "grāmatvedība",
-   "production",
-   "ražošana"
-  ],
-  "firstSeen": "2026-10-16T13:17:50+00:00"
- },
- {
   "id": 1670281,
   "positionTitle": "Klientu attiecību nodaļas vadītājs",
   "employerName": "Valsts digitālās attīstības aģentūra",
@@ -4781,21 +3630,6 @@
   "publishDate": "2026-10-16T12:52:34.946+00:00",
   "renewedDate": null,
   "expirationDate": "2026-10-29T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-16T13:17:50+00:00"
- },
- {
-  "id": 1670276,
-  "positionTitle": "Pārdošanas speciālists/-e zvanu centrā",
-  "employerName": "BALTA AAS",
-  "salaryFrom": 1000.0,
-  "salaryTo": 2500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-16T12:44:34.921+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-01T23:59:59.999+00:00",
   "keywords": [],
   "firstSeen": "2026-10-16T13:17:50+00:00"
  },
@@ -4828,27 +3662,6 @@
   "expirationDate": "2026-11-01T23:59:59.999+00:00",
   "keywords": [
    "CX"
-  ],
-  "firstSeen": "2026-10-16T13:17:50+00:00"
- },
- {
-  "id": 1670261,
-  "positionTitle": "Vadošais Mehāniķis",
-  "employerName": "RIDE SIA",
-  "salaryFrom": 1900.0,
-  "salaryTo": 2100.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-16T12:32:46.768+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-16T23:59:59.999+00:00",
-  "keywords": [
-   "Mehāniķis",
-   "Vadošais mehāniķis",
-   "Galvenais mehāniķis",
-   "Mehānika",
-   "Tehnika"
   ],
   "firstSeen": "2026-10-16T13:17:50+00:00"
  },
@@ -4965,23 +3778,6 @@
   "firstSeen": "2026-10-16T13:17:50+00:00"
  },
  {
-  "id": 1610024,
-  "positionTitle": "Vecākais grāmatvedis/-e",
-  "employerName": "MIRASTYLE SIA",
-  "salaryFrom": 2500.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-16T11:00:31.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-15T23:59:59.999+00:00",
-  "keywords": [
-   "grāmatvedis, grāmatvedība"
-  ],
-  "firstSeen": "2026-10-16T13:17:50+00:00"
- },
- {
   "id": 1670187,
   "positionTitle": "Žurnāla un portāla «Privātā Dzīve» galvenā redaktora vietnieks/-ce",
   "employerName": "ŽURNĀLS SANTA SIA",
@@ -4995,59 +3791,6 @@
   "expirationDate": "2026-11-16T23:59:59.999+00:00",
   "keywords": [
    "redaktors"
-  ],
-  "firstSeen": "2026-10-16T13:17:50+00:00"
- },
- {
-  "id": 1670192,
-  "positionTitle": "Vecākais Front-end programmatūras inženieris / Senior Software Engineer (Front-End)",
-  "employerName": "ARRISE",
-  "salaryFrom": 4500.0,
-  "salaryTo": 7500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-16T10:55:10.866+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-16T23:59:59.999+00:00",
-  "keywords": [
-   "Front-end programmatūras inženieris",
-   "programmatūras inženieris",
-   "Software Engineer",
-   "React",
-   "TypeScript",
-   "Front-End Software Engineer",
-   "Agile",
-   "HTML5",
-   "CSS3",
-   "iGaming",
-   "Game development",
-   "Front-end",
-   "Software",
-   "Engineer",
-   "Javascript",
-   "frontend"
-  ],
-  "firstSeen": "2026-10-16T13:17:50+00:00"
- },
- {
-  "id": 1670191,
-  "positionTitle": "Full-Stack Java Developer(Full-Stack Java izstrādātājs)",
-  "employerName": "ARRISE",
-  "salaryFrom": 4500.0,
-  "salaryTo": 7500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-16T10:54:48.367+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-16T23:59:59.999+00:00",
-  "keywords": [
-   "Java Developer",
-   "Java",
-   "Java Engineer",
-   "Fullstack",
-   "Full-stack"
   ],
   "firstSeen": "2026-10-16T13:17:50+00:00"
  },
@@ -5138,42 +3881,6 @@
   "firstSeen": "2026-10-16T13:17:50+00:00"
  },
  {
-  "id": 1670160,
-  "positionTitle": "Senior Mobile Developer",
-  "employerName": "HackMotion",
-  "salaryFrom": 4000.0,
-  "salaryTo": 4800.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-16T10:18:19.048+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-16T23:59:59.999+00:00",
-  "keywords": [
-   "Senior",
-   "Flutter",
-   "Mobile",
-   "iOS",
-   "Android",
-   "Architect",
-   "Engineer",
-   "Developer",
-   "Dart",
-   "Swift",
-   "Kotlin",
-   "React",
-   "SwiftUI",
-   "Compose",
-   "HackMotion",
-   "Programmētājs",
-   "Izstrādātājs",
-   "Lietotne",
-   "Aplikācija",
-   "App"
-  ],
-  "firstSeen": "2026-10-16T13:17:50+00:00"
- },
- {
   "id": 1670152,
   "positionTitle": "IS analītiķis/-e",
   "employerName": "VSIA \"Bērnu klīniskā universitātes slimnīca\"",
@@ -5237,29 +3944,6 @@
    "production engineer",
    "engineer",
    "Vidzeme"
-  ],
-  "firstSeen": "2026-10-16T13:17:50+00:00"
- },
- {
-  "id": 1670137,
-  "positionTitle": "Pārdošanas speciālists/-e Jelgavas birojā",
-  "employerName": "BITE Latvija SIA",
-  "salaryFrom": 1000.0,
-  "salaryTo": 2000.0,
-  "hourlySalary": false,
-  "townId": 553,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-16T09:21:13.860+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-16T23:59:59.999+00:00",
-  "keywords": [
-   "pārdošana",
-   "Jelgava",
-   "Bite",
-   "Telemārketings",
-   "izejošie zvani",
-   "bonusu sistēma",
-   "darbs Jelgavas apkārtnē"
   ],
   "firstSeen": "2026-10-16T13:17:50+00:00"
  },
@@ -5338,21 +4022,6 @@
   "firstSeen": "2026-10-16T13:17:50+00:00"
  },
  {
-  "id": 1670129,
-  "positionTitle": "Onkologs ķīmijterapeits Solīdo audzēju medikamentozās terapijas klīnikā",
-  "employerName": "Rīgas Austrumu klīniskā universitātes slimnīca SIA",
-  "salaryFrom": 2399.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-16T09:09:36.158+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-16T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-16T13:17:50+00:00"
- },
- {
   "id": 1669817,
   "positionTitle": "Finanšu biznesa partneris/-e",
   "employerName": "Orkla Latvija SIA",
@@ -5385,24 +4054,6 @@
    "#vadība",
    "#pārdošana",
    "#fmcg"
-  ],
-  "firstSeen": "2026-10-16T13:17:50+00:00"
- },
- {
-  "id": 1670120,
-  "positionTitle": "Materiālo vērtību grāmatvedis/-e",
-  "employerName": "DEPO",
-  "salaryFrom": 1800.0,
-  "salaryTo": 2100.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-16T08:41:30.371+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-16T23:59:59.999+00:00",
-  "keywords": [
-   "\"Grāmatvedis",
-   "\"galvenais grāmatvedis"
   ],
   "firstSeen": "2026-10-16T13:17:50+00:00"
  },
@@ -5530,21 +4181,6 @@
   "firstSeen": "2026-10-16T13:17:50+00:00"
  },
  {
-  "id": 1670062,
-  "positionTitle": "AVK sistēmu būvdarbu vadītājs",
-  "employerName": "BIANT SIA",
-  "salaryFrom": 2700.0,
-  "salaryTo": 3500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-16T07:07:27.379+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-16T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-16T07:15:33+00:00"
- },
- {
   "id": 1670051,
   "positionTitle": "Finanšu vadītājs/-a",
   "employerName": "My HR SIA",
@@ -5607,51 +4243,6 @@
   "firstSeen": "2026-10-16T07:15:33+00:00"
  },
  {
-  "id": 1670028,
-  "positionTitle": "Tirdzniecības pārstāvis/-e Latgalē un Vidzemē",
-  "employerName": "Dinastija SIA",
-  "salaryFrom": 1800.0,
-  "salaryTo": 2200.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-16T06:32:30.996+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-30T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-16T07:15:33+00:00"
- },
- {
-  "id": 1670027,
-  "positionTitle": "Tirdzniecības pārstāvis/-e Latvijā",
-  "employerName": "Dinastija SIA",
-  "salaryFrom": 1800.0,
-  "salaryTo": 2200.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-16T06:31:04.773+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-30T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-16T07:15:33+00:00"
- },
- {
-  "id": 1669835,
-  "positionTitle": "Tirdzniecības pārstāvis/-e Rīgā",
-  "employerName": "Dinastija SIA",
-  "salaryFrom": 1800.0,
-  "salaryTo": 2200.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-16T06:29:47.102+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-31T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-16T07:15:33+00:00"
- },
- {
   "id": 1670019,
   "positionTitle": "Vecākais Hipotekārās kreditēšanas konsultants/-e",
   "employerName": "Luminor Bank AS Latvijas filiāle",
@@ -5706,58 +4297,6 @@
    "Menedžeris"
   ],
   "firstSeen": "2026-10-16T07:15:33+00:00"
- },
- {
-  "id": 1669995,
-  "positionTitle": "Vecākais lauksaimniecības tehnikas mehāniķis Saldū",
-  "employerName": "STOKKER SIA",
-  "salaryFrom": 1700.0,
-  "salaryTo": 2700.0,
-  "hourlySalary": false,
-  "townId": 563,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-16T05:50:45.342+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-16T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-16T07:15:33+00:00"
- },
- {
-  "id": 1669868,
-  "positionTitle": "Vecākais grāmatvedis/e",
-  "employerName": "Pasažieru vilciens AS",
-  "salaryFrom": 2100.0,
-  "salaryTo": 2100.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-15T20:12:41.055+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-29T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-15T21:28:05+00:00"
- },
- {
-  "id": 1669858,
-  "positionTitle": "Foreman / Supervisor",
-  "employerName": "Nord Armering AB",
-  "salaryFrom": 23.0,
-  "salaryTo": 25.0,
-  "hourlySalary": true,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-15T15:17:02.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-15T23:59:59.999+00:00",
-  "keywords": [
-   "Būvdarbu vadītājs",
-   "Brigadieris",
-   "Darbu vadītājs",
-   "Betonēšanas darbi",
-   "Armatūras darbi",
-   "Darbs Zviedrijā"
-  ],
-  "firstSeen": "2026-10-15T17:06:03+00:00"
  },
  {
   "id": 1669847,
@@ -5885,21 +4424,6 @@
   "firstSeen": "2026-10-15T17:06:03+00:00"
  },
  {
-  "id": 1669776,
-  "positionTitle": "PHP Programmētājs/-a",
-  "employerName": "Visidarbi.lv klients",
-  "salaryFrom": 2500.0,
-  "salaryTo": 3000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-15T12:29:54.354+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-14T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-15T17:06:03+00:00"
- },
- {
   "id": 1669768,
   "positionTitle": "Biznesa sistēmu galvenais lietotājs/-a darbam uz noteiktu laiku",
   "employerName": "Latvijas valsts meži AS",
@@ -5977,44 +4501,6 @@
    "sadarbība",
    "dažādas kultūras"
   ],
-  "firstSeen": "2026-10-15T11:37:01+00:00"
- },
- {
-  "id": 1668701,
-  "positionTitle": "Autoskārdnieks",
-  "employerName": "Latvijas apdrošinātāju autoserviss SIA",
-  "salaryFrom": null,
-  "salaryTo": 2000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-15T11:12:37.596+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-15T23:59:59.999+00:00",
-  "keywords": [
-   "auto",
-   "apdrošinātāji",
-   "octa",
-   "kasko",
-   "mehānika",
-   "autoserviss",
-   "remonts"
-  ],
-  "firstSeen": "2026-10-15T11:37:01+00:00"
- },
- {
-  "id": 1668700,
-  "positionTitle": "Auto detaļu krāsotājs",
-  "employerName": "Latvijas apdrošinātāju autoserviss SIA",
-  "salaryFrom": 2000.0,
-  "salaryTo": 3000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-15T11:11:44.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-15T23:59:59.999+00:00",
-  "keywords": [],
   "firstSeen": "2026-10-15T11:37:01+00:00"
  },
  {
@@ -6283,38 +4769,6 @@
   "firstSeen": "2026-10-15T11:37:01+00:00"
  },
  {
-  "id": 1669583,
-  "positionTitle": "Grāmatvedis/-e darbam ar ASV meitas uzņēmumu",
-  "employerName": "Padtex Insulation SIA",
-  "salaryFrom": 2500.0,
-  "salaryTo": 3000.0,
-  "hourlySalary": false,
-  "townId": 567,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-15T07:24:38.083+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-15T23:59:59.999+00:00",
-  "keywords": [
-   "ražošana, Valmiera, Vidzeme, grāmatvedis, finanses, ASV"
-  ],
-  "firstSeen": "2026-10-15T11:37:01+00:00"
- },
- {
-  "id": 1669579,
-  "positionTitle": "CNC Programmētājs",
-  "employerName": "PLUFF SIA",
-  "salaryFrom": 2100.0,
-  "salaryTo": 2500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-15T07:19:41.371+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-15T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-15T11:37:01+00:00"
- },
- {
   "id": 1669573,
   "positionTitle": "Iepirkumu un loģistikas projektu vadītājs/-a",
   "employerName": "WorkingDay Latvia",
@@ -6483,81 +4937,6 @@
   "firstSeen": "2026-10-15T11:37:01+00:00"
  },
  {
-  "id": 1669514,
-  "positionTitle": "Iekšējais/-ā jurists/-e",
-  "employerName": "KPMG Baltics SIA",
-  "salaryFrom": 1400.0,
-  "salaryTo": 2200.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-15T06:01:24.469+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-15T23:59:59.999+00:00",
-  "keywords": [
-   "kpmg",
-   "big4",
-   "ey",
-   "pwc",
-   "deloitte",
-   "advisory",
-   "jurists",
-   "jurisprudence",
-   "legal",
-   "lawyer"
-  ],
-  "firstSeen": "2026-10-15T11:37:01+00:00"
- },
- {
-  "id": 1669495,
-  "positionTitle": "Būvdarbu vadītājs/-a",
-  "employerName": "Hagberg SIA",
-  "salaryFrom": 2500.0,
-  "salaryTo": 3100.0,
-  "hourlySalary": false,
-  "townId": 556,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-15T04:33:56.705+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-15T23:59:59.999+00:00",
-  "keywords": [
-   "Būvdarbu vadītājs",
-   "Būvniecība",
-   "Liepāja"
-  ],
-  "firstSeen": "2026-10-15T04:47:39+00:00"
- },
- {
-  "id": 1669347,
-  "positionTitle": "Tāmēšanas inženieris",
-  "employerName": "CLT PROFI SIA",
-  "salaryFrom": 1400.0,
-  "salaryTo": 2000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-15T00:00:00.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-15T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-15T04:47:39+00:00"
- },
- {
-  "id": 1668261,
-  "positionTitle": "Lauksaimniecības tehnikas mehāniķis Rēzeknē",
-  "employerName": "STOKKER SIA",
-  "salaryFrom": 1400.0,
-  "salaryTo": 2300.0,
-  "hourlySalary": false,
-  "townId": 562,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-15T00:00:00.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-15T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-15T04:47:39+00:00"
- },
- {
   "id": 1669288,
   "positionTitle": "Biroja administrators/e - vadītāja palīgs/dze",
   "employerName": "L-Ekspresis SIA",
@@ -6652,21 +5031,6 @@
   "publishDate": "2026-10-14T15:00:03.296+00:00",
   "renewedDate": null,
   "expirationDate": "2026-11-13T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-14T18:40:23+00:00"
- },
- {
-  "id": 1669321,
-  "positionTitle": ".NET testētājs",
-  "employerName": "Encontrol Baltic SIA",
-  "salaryFrom": 2500.0,
-  "salaryTo": 3500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-14T14:48:28.316+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-14T23:59:59.999+00:00",
   "keywords": [],
   "firstSeen": "2026-10-14T18:40:23+00:00"
  },
@@ -6782,25 +5146,6 @@
   "firstSeen": "2026-10-14T13:47:02+00:00"
  },
  {
-  "id": 1669232,
-  "positionTitle": "Atbildīgais būvdarbu vadītājs",
-  "employerName": "Rietumu būvvadība SIA",
-  "salaryFrom": 2900.0,
-  "salaryTo": 3500.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-14T12:23:38.852+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-14T23:59:59.999+00:00",
-  "keywords": [
-   "Būvdarbu vadītājs",
-   "Atbildīgais būvdarbu vadītājs",
-   "Sertificēts būvdarbu vadītājs"
-  ],
-  "firstSeen": "2026-10-14T13:47:02+00:00"
- },
- {
   "id": 1669230,
   "positionTitle": "IT speciālists",
   "employerName": "Alfor SIA",
@@ -6863,29 +5208,6 @@
   "renewedDate": null,
   "expirationDate": "2026-11-14T23:59:59.999+00:00",
   "keywords": [],
-  "firstSeen": "2026-10-14T13:47:02+00:00"
- },
- {
-  "id": 1669210,
-  "positionTitle": "Tāmētājs-/a",
-  "employerName": "LEONHARD WEISS OÜ",
-  "salaryFrom": 2400.0,
-  "salaryTo": 2800.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-14T11:53:39.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-14T23:59:59.999+00:00",
-  "keywords": [
-   "būvspeciālists",
-   "būvspeciāliste",
-   "būvniecība",
-   "LEONHARD WEISS",
-   "enerģētika",
-   "elektroenerģija",
-   "tehniskās zinātnes"
-  ],
   "firstSeen": "2026-10-14T13:47:02+00:00"
  },
  {
@@ -6994,27 +5316,6 @@
   "firstSeen": "2026-10-14T13:47:02+00:00"
  },
  {
-  "id": 1669146,
-  "positionTitle": "Elektropacēlāja vadītājs/-a Termo noliktava (+2°...+6°, darbs naktī)",
-  "employerName": "Baltic Logistic Solutions SIA",
-  "salaryFrom": 1665.0,
-  "salaryTo": 2340.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-14T09:38:44.341+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-13T23:59:59.999+00:00",
-  "keywords": [
-   "elektropacēlājs",
-   "reach truck",
-   "noliktavas darbs",
-   "nakts maiņa",
-   "loģistika"
-  ],
-  "firstSeen": "2026-10-14T13:47:02+00:00"
- },
- {
   "id": 1669017,
   "positionTitle": "Service Delivery Senior Supervisor",
   "employerName": "CMA CGM Latvia SIA ",
@@ -7094,58 +5395,6 @@
    "Customer",
    "Support",
    "Support Operations Specialist"
-  ],
-  "firstSeen": "2026-10-14T13:47:02+00:00"
- },
- {
-  "id": 1669099,
-  "positionTitle": "Grāmatu ražošanas iekārtu operatori/es (apmācība nodrošināta)",
-  "employerName": "Livonia Print SIA",
-  "salaryFrom": 1000.0,
-  "salaryTo": 2000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-14T08:23:59.118+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-14T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-14T13:47:02+00:00"
- },
- {
-  "id": 1669081,
-  "positionTitle": "Vecākais ārpakalpojumu grāmatvedis(e)/konsultants(e)",
-  "employerName": "BDO Latvia AS",
-  "salaryFrom": 2700.0,
-  "salaryTo": 3500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-14T07:50:03.015+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-14T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-14T13:47:02+00:00"
- },
- {
-  "id": 1669076,
-  "positionTitle": "Mobilo lietotņu programmētājs/-a",
-  "employerName": "CV-Online Recruitment klients",
-  "salaryFrom": 4000.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "FULLY_REMOTE",
-  "publishDate": "2026-10-14T07:48:53.824+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-28T23:59:59.999+00:00",
-  "keywords": [
-   "informācijas tehnoloģijas",
-   "IT",
-   "programmētājs",
-   "programmētāja",
-   "mobilo lietotņu programmētājs",
-   "mobilo lietotņu programmētāja"
   ],
   "firstSeen": "2026-10-14T13:47:02+00:00"
  },
@@ -7234,21 +5483,6 @@
   "firstSeen": "2026-10-14T07:42:34+00:00"
  },
  {
-  "id": 1669038,
-  "positionTitle": "Frontend Developer",
-  "employerName": "Atea Global Services",
-  "salaryFrom": 3000.0,
-  "salaryTo": 4000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-14T06:49:37.524+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-14T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-14T07:42:34+00:00"
- },
- {
   "id": 1669018,
   "positionTitle": "Informācijas tehnoloģiju departamenta direktors/-e",
   "employerName": "Latvijas Vēstnesis",
@@ -7263,21 +5497,6 @@
   "keywords": [
    "IT direktors"
   ],
-  "firstSeen": "2026-10-14T07:42:34+00:00"
- },
- {
-  "id": 1669023,
-  "positionTitle": "Lead Full Stack Developer (.NET)",
-  "employerName": "Atea Global Services",
-  "salaryFrom": 4800.0,
-  "salaryTo": 5600.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-14T06:25:38.113+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-14T23:59:59.999+00:00",
-  "keywords": [],
   "firstSeen": "2026-10-14T07:42:34+00:00"
  },
  {
@@ -7481,23 +5700,6 @@
   "firstSeen": "2026-10-13T16:04:07+00:00"
  },
  {
-  "id": 1668852,
-  "positionTitle": "CNC darbgalda operators",
-  "employerName": "SIA FIXAR-AERO",
-  "salaryFrom": 1800.0,
-  "salaryTo": 2000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-13T14:19:51.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-13T23:59:59.999+00:00",
-  "keywords": [
-   "cnc"
-  ],
-  "firstSeen": "2026-10-13T16:04:07+00:00"
- },
- {
   "id": 1668848,
   "positionTitle": "DevOps",
   "employerName": "Decta SIA",
@@ -7510,45 +5712,6 @@
   "renewedDate": null,
   "expirationDate": "2026-11-13T23:59:59.999+00:00",
   "keywords": [],
-  "firstSeen": "2026-10-13T16:04:07+00:00"
- },
- {
-  "id": 1668840,
-  "positionTitle": "Pārdošanas speciālists Pārstāvniecībā \"Ogre\"",
-  "employerName": "ERGO Insurance SE Latvijas filiāle /ERGO Life Insurance SE Latvijas filiāle",
-  "salaryFrom": 1298.0,
-  "salaryTo": 2000.0,
-  "hourlySalary": false,
-  "townId": 560,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-13T14:05:18.355+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-31T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-13T16:04:07+00:00"
- },
- {
-  "id": 1668833,
-  "positionTitle": "Elektriķis /-e maiņās",
-  "employerName": "Valmieras stikla šķiedra AS ",
-  "salaryFrom": 2000.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 567,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-13T14:01:00.204+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-21T23:59:59.999+00:00",
-  "keywords": [
-   "elektronika",
-   "automātika",
-   "mehatronika",
-   "diagnostika",
-   "elektrotehnika",
-   "elektrības",
-   "maiņu darbs",
-   "elektroietaises"
-  ],
   "firstSeen": "2026-10-13T16:04:07+00:00"
  },
  {
@@ -7609,21 +5772,6 @@
   "townId": null,
   "remoteWorkType": "ON_SITE",
   "publishDate": "2026-10-13T13:34:50.875+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-12T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-13T16:04:07+00:00"
- },
- {
-  "id": 1668820,
-  "positionTitle": "Namdaris",
-  "employerName": "Visidarbi.lv klients",
-  "salaryFrom": 1400.0,
-  "salaryTo": 2500.0,
-  "hourlySalary": false,
-  "townId": 553,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-13T13:32:28.079+00:00",
   "renewedDate": null,
   "expirationDate": "2026-11-12T23:59:59.999+00:00",
   "keywords": [],
@@ -7735,21 +5883,6 @@
    "audits",
    "vadītājs"
   ],
-  "firstSeen": "2026-10-13T16:04:07+00:00"
- },
- {
-  "id": 1668738,
-  "positionTitle": "Pārdošanas pārstāvis/e",
-  "employerName": "Amber Distribution Latvia",
-  "salaryFrom": 1700.0,
-  "salaryTo": 2100.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-13T12:11:33.548+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-13T23:59:59.999+00:00",
-  "keywords": [],
   "firstSeen": "2026-10-13T16:04:07+00:00"
  },
  {
@@ -7967,21 +6100,6 @@
   "firstSeen": "2026-10-13T16:04:07+00:00"
  },
  {
-  "id": 1668653,
-  "positionTitle": "Chief Accountant",
-  "employerName": "Amber Distribution Latvia",
-  "salaryFrom": 3000.0,
-  "salaryTo": 3500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-13T10:25:19.658+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-26T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-13T16:04:07+00:00"
- },
- {
   "id": 1668638,
   "positionTitle": "Uzturēšanas remontdarbu projektu vadītājs/-a",
   "employerName": "Valsts nekustamie īpašumi VAS",
@@ -8057,21 +6175,6 @@
   "publishDate": "2026-10-13T09:05:22.619+00:00",
   "renewedDate": null,
   "expirationDate": "2026-10-30T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-13T16:04:07+00:00"
- },
- {
-  "id": 1668605,
-  "positionTitle": "Software Engineer (Full Stack)",
-  "employerName": "Swedbank AS",
-  "salaryFrom": 3900.0,
-  "salaryTo": 5900.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-13T09:01:01.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-27T23:59:59.999+00:00",
   "keywords": [],
   "firstSeen": "2026-10-13T16:04:07+00:00"
  },
@@ -8190,31 +6293,6 @@
   "firstSeen": "2026-10-13T16:04:07+00:00"
  },
  {
-  "id": 1668531,
-  "positionTitle": "B2B automobiļu pārdevēja/-s",
-  "employerName": "CV-Online Recruitment",
-  "salaryFrom": 3000.0,
-  "salaryTo": 4000.0,
-  "hourlySalary": false,
-  "townId": 621,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-13T07:11:43.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-30T23:59:59.999+00:00",
-  "keywords": [
-   "wess select",
-   "pārdošana",
-   "tirdzniecība",
-   "B2B",
-   "tehniskās zinātnes",
-   "B2B automobiļu pārdevēja",
-   "B2B automobiļu pārdevējs",
-   "pārdevējs",
-   "pārdevēja"
-  ],
-  "firstSeen": "2026-10-13T16:04:07+00:00"
- },
- {
   "id": 1668530,
   "positionTitle": "Data Engineer",
   "employerName": "Epic Frog",
@@ -8227,30 +6305,6 @@
   "renewedDate": null,
   "expirationDate": "2026-11-13T23:59:59.999+00:00",
   "keywords": [],
-  "firstSeen": "2026-10-13T16:04:07+00:00"
- },
- {
-  "id": 1668526,
-  "positionTitle": "Jurists/-e,  Iepirkumu vadības daļā",
-  "employerName": "Rīgas ūdens SIA",
-  "salaryFrom": 2325.0,
-  "salaryTo": 2500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-13T07:07:30.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-02T23:59:59.999+00:00",
-  "keywords": [
-   "jurists",
-   "iepirkumi",
-   "publiskie iepirkumi",
-   "juridiskais atbalsts",
-   "iepirkumu komisija",
-   "dokumentācija",
-   "līgumi",
-   "tiesību zinātnes"
-  ],
   "firstSeen": "2026-10-13T16:04:07+00:00"
  },
  {
@@ -8319,36 +6373,6 @@
    "tehniskā dokumentācija",
    "elektriskie aprēķin"
   ],
-  "firstSeen": "2026-10-13T06:51:02+00:00"
- },
- {
-  "id": 1668488,
-  "positionTitle": ".NET Full-stack Developer with AI Enablement focus",
-  "employerName": "If P&C Insurance AS Latvijas filiāle",
-  "salaryFrom": 3500.0,
-  "salaryTo": 5500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-13T06:43:22.066+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-27T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-13T06:51:02+00:00"
- },
- {
-  "id": 1668474,
-  "positionTitle": "Siltuma, gāzes un ūdens tehnoloģijas sistēmu būvinženieris/-e",
-  "employerName": "VSIA \"Bērnu klīniskā universitātes slimnīca\"",
-  "salaryFrom": 2400.0,
-  "salaryTo": 2600.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-13T06:25:50.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-13T23:59:59.999+00:00",
-  "keywords": [],
   "firstSeen": "2026-10-13T06:51:02+00:00"
  },
  {
@@ -8462,28 +6486,6 @@
   "firstSeen": "2026-10-13T06:51:02+00:00"
  },
  {
-  "id": 1668432,
-  "positionTitle": "Būvdarbu vadītājs (Elektroapgāde/Vājstrāvas)",
-  "employerName": "Moduls Engineering SIA",
-  "salaryFrom": 4200.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "FULLY_REMOTE",
-  "publishDate": "2026-10-13T05:18:09.091+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-13T23:59:59.999+00:00",
-  "keywords": [
-   "elektrība",
-   "elektroapgāde",
-   "būvdarbu vadītājs",
-   "35kV",
-   "sertifikāts",
-   "vadīāna"
-  ],
-  "firstSeen": "2026-10-13T06:51:02+00:00"
- },
- {
   "id": 1668298,
   "positionTitle": "360 TV ziņu žurnālists/-e",
   "employerName": "Tet SIA",
@@ -8544,21 +6546,6 @@
   "firstSeen": "2026-10-12T15:35:40+00:00"
  },
  {
-  "id": 1668284,
-  "positionTitle": "Java Software Developer / Programmētājs(-a) (Mid/Senior) | SEB, Riga",
-  "employerName": "SEB",
-  "salaryFrom": 2750.0,
-  "salaryTo": 4750.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-12T15:00:04.140+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-11T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
   "id": 1668269,
   "positionTitle": "Datu zinātnieks Valsts pārbaudījumu departamenta Monitoringa nodaļā",
   "employerName": "Valsts izglītības attīstības aģentūra",
@@ -8601,39 +6588,6 @@
   "renewedDate": null,
   "expirationDate": "2026-10-26T23:59:59.999+00:00",
   "keywords": [],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
-  "id": 1667317,
-  "positionTitle": "Galvenais Grāmatvedis/-e",
-  "employerName": "Nafta Films SIA ",
-  "salaryFrom": 3000.0,
-  "salaryTo": 4000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-12T13:47:09.834+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-12T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
-  "id": 1668252,
-  "positionTitle": "Noliktavas darbinieks/-ce",
-  "employerName": "KURBADS UN KO SIA",
-  "salaryFrom": 1600.0,
-  "salaryTo": 2000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-12T13:44:24.669+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-12T23:59:59.999+00:00",
-  "keywords": [
-   "Noliktava",
-   "auto"
-  ],
   "firstSeen": "2026-10-12T15:35:40+00:00"
  },
  {
@@ -8712,27 +6666,6 @@
   "renewedDate": null,
   "expirationDate": "2026-11-08T23:59:59.999+00:00",
   "keywords": [],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
-  "id": 1668241,
-  "positionTitle": "“Grāmatvedis/-e grupas uzņēmumā",
-  "employerName": "Storent SIA",
-  "salaryFrom": 2000.0,
-  "salaryTo": 2500.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-12T13:26:32.418+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-11T23:59:59.999+00:00",
-  "keywords": [
-   "grāmatvedība",
-   "finanšu pārskati",
-   "Excel",
-   "ERP",
-   "starptautiski uzņēmumi"
-  ],
   "firstSeen": "2026-10-12T15:35:40+00:00"
  },
  {
@@ -9028,21 +6961,6 @@
   "firstSeen": "2026-10-12T15:35:40+00:00"
  },
  {
-  "id": 1668150,
-  "positionTitle": "Junior Full-Stack Developer",
-  "employerName": "SIA \"GMG Trade\"",
-  "salaryFrom": 1300.0,
-  "salaryTo": 2000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-12T12:25:10.043+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-12T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
   "id": 1668145,
   "positionTitle": "Metrologs/-ģe – mērījumu inženieris/-e",
   "employerName": "I-Work Group",
@@ -9065,42 +6983,6 @@
   "firstSeen": "2026-10-12T15:35:40+00:00"
  },
  {
-  "id": 1668146,
-  "positionTitle": "Tirdzniecības pārstāvis Kurzemes un Zemgales reģionā",
-  "employerName": "Linas Agro SIA",
-  "salaryFrom": 2500.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 553,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-12T12:18:12.312+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-31T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
-  "id": 1668141,
-  "positionTitle": "Galvenais/-ā grāmatvedis/-e",
-  "employerName": "I-Work Group",
-  "salaryFrom": 3000.0,
-  "salaryTo": 3500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-12T12:16:45.620+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-12T23:59:59.999+00:00",
-  "keywords": [
-   "galvenais grāmatvedis",
-   "bilancspējīgs grāmatvedis",
-   "grāmatvedis",
-   "accountant",
-   "chief accountant"
-  ],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
   "id": 1668133,
   "positionTitle": "Servisa darbnīcas vadītājs",
   "employerName": "MOLLER AUTO ",
@@ -9112,21 +6994,6 @@
   "publishDate": "2026-10-12T12:12:42.874+00:00",
   "renewedDate": null,
   "expirationDate": "2026-10-27T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
-  "id": 1668139,
-  "positionTitle": "Android lietotņu programmētājs/-a",
-  "employerName": "Tet SIA",
-  "salaryFrom": 2500.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-12T12:09:47.194+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-12T23:59:59.999+00:00",
   "keywords": [],
   "firstSeen": "2026-10-12T15:35:40+00:00"
  },
@@ -9278,100 +7145,6 @@
   "firstSeen": "2026-10-12T15:35:40+00:00"
  },
  {
-  "id": 1668057,
-  "positionTitle": "Autokrāsotājs",
-  "employerName": "Autobrava SIA",
-  "salaryFrom": 3500.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-12T10:35:11.780+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-12T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
-  "id": 1668058,
-  "positionTitle": "Aktīvās Pārdošanas Speciālists",
-  "employerName": "RST Company SIA",
-  "salaryFrom": 2000.0,
-  "salaryTo": 5000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-12T10:32:22.550+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-12T23:59:59.999+00:00",
-  "keywords": [
-   "Sales",
-   "B2B",
-   "Outbound"
-  ],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
-  "id": 1666889,
-  "positionTitle": "Tirdzniecības pārstāvis/-e Zemgales reģionā",
-  "employerName": "Agrochema Latvia SIA",
-  "salaryFrom": 2200.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 553,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-12T10:27:55.155+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-27T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
-  "id": 1668002,
-  "positionTitle": "Tirdzniecības pārstāvis/-e Vidzemes reģionā",
-  "employerName": "Agrochema Latvia SIA",
-  "salaryFrom": 2200.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 567,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-12T10:27:23.563+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-27T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
-  "id": 1668004,
-  "positionTitle": "Tirdzniecības pārstāvis/-e Kurzemes reģionā",
-  "employerName": "Agrochema Latvia SIA",
-  "salaryFrom": 2200.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 556,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-12T10:27:02.850+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-27T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
-  "id": 1668005,
-  "positionTitle": "Tirdzniecības pārstāvis/-e Latgales reģionā",
-  "employerName": "Agrochema Latvia SIA",
-  "salaryFrom": 2200.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 549,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-12T10:26:17.083+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-27T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
   "id": 1668032,
   "positionTitle": "Kvalitātes vadītājs /-a",
   "employerName": "Hagberg SIA",
@@ -9383,21 +7156,6 @@
   "publishDate": "2026-10-12T09:52:39.543+00:00",
   "renewedDate": null,
   "expirationDate": "2026-11-12T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
-  "id": 1668021,
-  "positionTitle": "Juridiskās un pirmstiesas strīdu izskatīšanas pārvaldes Otrās tiesvedības daļas jurists/-e",
-  "employerName": "Valsts ieņēmumu dienests",
-  "salaryFrom": 1905.0,
-  "salaryTo": 2063.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-12T09:49:38.996+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-26T23:59:59.999+00:00",
   "keywords": [],
   "firstSeen": "2026-10-12T15:35:40+00:00"
  },
@@ -9492,66 +7250,6 @@
   "firstSeen": "2026-10-12T15:35:40+00:00"
  },
  {
-  "id": 1667440,
-  "positionTitle": "Veterinārārsts/-e",
-  "employerName": "SIA ABUVET",
-  "salaryFrom": 14.0,
-  "salaryTo": 25.0,
-  "hourlySalary": true,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-12T09:23:46.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-12T23:59:59.999+00:00",
-  "keywords": [
-   "veterinārārsts",
-   "veterinārārste",
-   "veterinārmedicīna",
-   "veterinārā klīnika"
-  ],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
-  "id": 1668010,
-  "positionTitle": "Ķirurgs vai traumatologs Ķirurģiskās infekcijas klīnikas Apdegumu centrā",
-  "employerName": "Rīgas Austrumu klīniskā universitātes slimnīca SIA",
-  "salaryFrom": 2099.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-12T09:22:04.973+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-12T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
-  "id": 1668007,
-  "positionTitle": "Mehatroniķis/-e automatizācijas iekārtu speciālists/-e",
-  "employerName": "CV-Online Recruitment",
-  "salaryFrom": 1600.0,
-  "salaryTo": 2300.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-12T09:19:17.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-30T23:59:59.999+00:00",
-  "keywords": [
-   "tehniskās zinātnes",
-   "robotika",
-   "automatizācija",
-   "latmas",
-   "mehatroniķis",
-   "mehatroniķe",
-   "automatizācijas speciālists",
-   "automatizācijas speciāliste",
-   "PLC"
-  ],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
   "id": 1668001,
   "positionTitle": "Mežsaimniecības speciālists / -e",
   "employerName": "VIDI WOODS SIA",
@@ -9586,36 +7284,6 @@
   "firstSeen": "2026-10-12T15:35:40+00:00"
  },
  {
-  "id": 1667993,
-  "positionTitle": "Pārdošanas speciālists/-e Rīgā",
-  "employerName": "GITANA tehniskais nodrošinājums SIA",
-  "salaryFrom": 1400.0,
-  "salaryTo": 3000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-12T09:00:57.132+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-12T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
-  "id": 1667985,
-  "positionTitle": "Grāmatvedības nodaļas vadītājs/-a, galvenais grāmatvedis/-e uz noteiktu laiku",
-  "employerName": "Siguldas novada pašvaldība",
-  "salaryFrom": 2290.0,
-  "salaryTo": 2410.0,
-  "hourlySalary": false,
-  "townId": 570,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-12T08:54:07.669+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-25T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
   "id": 1667984,
   "positionTitle": "DevOps Specialist",
   "employerName": "Accenture ",
@@ -9630,36 +7298,6 @@
   "keywords": [
    "devops"
   ],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
-  "id": 1667983,
-  "positionTitle": "Full Stack Developer",
-  "employerName": "Accenture ",
-  "salaryFrom": 2500.0,
-  "salaryTo": 4600.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-12T08:51:45.448+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-12T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
-  "id": 1667982,
-  "positionTitle": "Java Developer",
-  "employerName": "Accenture ",
-  "salaryFrom": 1900.0,
-  "salaryTo": 5000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-12T08:51:08.091+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-12T23:59:59.999+00:00",
-  "keywords": [],
   "firstSeen": "2026-10-12T15:35:40+00:00"
  },
  {
@@ -9682,21 +7320,6 @@
   "firstSeen": "2026-10-12T15:35:40+00:00"
  },
  {
-  "id": 1667973,
-  "positionTitle": "Carpenters and Workers/Galdnieki un strādnieki",
-  "employerName": "Visidarbi.lv klients",
-  "salaryFrom": 20.6,
-  "salaryTo": null,
-  "hourlySalary": true,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-12T08:40:51.756+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-11T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
   "id": 1667955,
   "positionTitle": "Account Manager",
   "employerName": "SIA \"InnovateIT Solutions\"",
@@ -9706,21 +7329,6 @@
   "townId": 543,
   "remoteWorkType": "HYBRID",
   "publishDate": "2026-10-12T08:19:29.026+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-12T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
-  "id": 1667935,
-  "positionTitle": "Pārdošanas speciālistu/-i DACH reģionam",
-  "employerName": "HQ CHIPPER PARTS SIA",
-  "salaryFrom": 2500.0,
-  "salaryTo": 3500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-12T07:45:27.053+00:00",
   "renewedDate": null,
   "expirationDate": "2026-11-12T23:59:59.999+00:00",
   "keywords": [],
@@ -9822,45 +7430,6 @@
   "firstSeen": "2026-10-12T15:35:40+00:00"
  },
  {
-  "id": 1667897,
-  "positionTitle": "Būvkonstrukciju konstruktors/-e",
-  "employerName": "CV-Online Recruitment",
-  "salaryFrom": 2300.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-12T06:57:39.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-19T23:59:59.999+00:00",
-  "keywords": [
-   "būvniecība",
-   "celtniecība",
-   "tehniskās zinātnes",
-   "csk steel",
-   "csk",
-   "steel",
-   "būvkonstrukciju",
-   "konstruktors"
-  ],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
-  "id": 1667888,
-  "positionTitle": "Ārstniecības procesu ārsts-auditors",
-  "employerName": "Rīgas Austrumu klīniskā universitātes slimnīca SIA",
-  "salaryFrom": null,
-  "salaryTo": 2729.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-12T06:51:53.396+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-31T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
   "id": 1667886,
   "positionTitle": "Datu aizsardzības speciālists/-e",
   "employerName": "Reģionālā investīciju banka, A/S",
@@ -9951,36 +7520,6 @@
   "firstSeen": "2026-10-12T15:35:40+00:00"
  },
  {
-  "id": 1667870,
-  "positionTitle": "Accountant",
-  "employerName": "AS Mapon",
-  "salaryFrom": 2000.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-12T06:21:07.483+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-12T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
-  "id": 1667865,
-  "positionTitle": "Lauksaimniecības tehnikas mehāniķis Talsos",
-  "employerName": "STOKKER SIA",
-  "salaryFrom": 1400.0,
-  "salaryTo": 2300.0,
-  "hourlySalary": false,
-  "townId": 565,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-12T06:14:03.008+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-12T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-12T15:35:40+00:00"
- },
- {
   "id": 1667860,
   "positionTitle": "Lely servisa Vadītājs/-a",
   "employerName": "Pro Ceva SIA",
@@ -10024,21 +7563,6 @@
   "publishDate": "2026-10-12T05:56:02.799+00:00",
   "renewedDate": null,
   "expirationDate": "2026-11-12T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-12T06:05:23+00:00"
- },
- {
-  "id": 1667857,
-  "positionTitle": ".NET Full-stack Developer with focus on AI and Next.js",
-  "employerName": "If P&C Insurance AS Latvijas filiāle",
-  "salaryFrom": 3500.0,
-  "salaryTo": 5500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-12T05:55:56.681+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-02T23:59:59.999+00:00",
   "keywords": [],
   "firstSeen": "2026-10-12T06:05:23+00:00"
  },
@@ -10255,36 +7779,6 @@
   "firstSeen": "2026-10-09T17:01:08+00:00"
  },
  {
-  "id": 1667638,
-  "positionTitle": "Būvdarbu vadītājs / Remontdarbu vadītājs",
-  "employerName": "GRATA ECO HOUSE SIA",
-  "salaryFrom": 2000.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-09T14:50:59.637+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-24T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-09T17:01:08+00:00"
- },
- {
-  "id": 1667634,
-  "positionTitle": "Pārdošanas speciālists",
-  "employerName": "MODERN SOLUTION SIA",
-  "salaryFrom": 2600.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-09T14:20:46.735+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-09T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-09T17:01:08+00:00"
- },
- {
   "id": 1667620,
   "positionTitle": "Finanšu analītiķis/-e",
   "employerName": "Biznesa augstskola Turība",
@@ -10429,25 +7923,6 @@
   "firstSeen": "2026-10-09T17:01:08+00:00"
  },
  {
-  "id": 1667604,
-  "positionTitle": "B kategorijas autovadītājs/-a Rīgā",
-  "employerName": "Baltic Logistic Solutions SIA",
-  "salaryFrom": 1440.0,
-  "salaryTo": 2040.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-09T13:32:54.865+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [
-   "B kategorijas autovadītājs",
-   "preču piegāde",
-   "loģistika"
-  ],
-  "firstSeen": "2026-10-09T17:01:08+00:00"
- },
- {
   "id": 1667590,
   "positionTitle": "Senior Software Developer – Fintech & Blockchain Startup",
   "employerName": "Atrya ",
@@ -10463,27 +7938,6 @@
    "blockchain",
    "financial engineering",
    "software developer"
-  ],
-  "firstSeen": "2026-10-09T17:01:08+00:00"
- },
- {
-  "id": 1667603,
-  "positionTitle": "CE kategorijas autovadītājs Rīgā",
-  "employerName": "Baltic Logistic Solutions SIA",
-  "salaryFrom": 1815.0,
-  "salaryTo": 2340.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-09T13:31:28.794+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [
-   "CE kategorija",
-   "autovadītājs",
-   "piegādes",
-   "loģistika",
-   "Rāmava"
   ],
   "firstSeen": "2026-10-09T17:01:08+00:00"
  },
@@ -10511,69 +7965,6 @@
   "firstSeen": "2026-10-09T17:01:08+00:00"
  },
  {
-  "id": 1667597,
-  "positionTitle": "C kategorijas autovadītājs/-a Rīgā",
-  "employerName": "Baltic Logistic Solutions SIA",
-  "salaryFrom": 1890.0,
-  "salaryTo": 2565.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-09T13:25:18.285+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [
-   "autovadītājs",
-   "C kategorija",
-   "kravas auto",
-   "transporta pārvadājumi",
-   "piegāde"
-  ],
-  "firstSeen": "2026-10-09T17:01:08+00:00"
- },
- {
-  "id": 1667587,
-  "positionTitle": "Elektropacēlāja vadītājs/-a (darbs naktīs)",
-  "employerName": "Baltic Logistic Solutions SIA",
-  "salaryFrom": 1890.0,
-  "salaryTo": 2340.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-09T13:19:32.308+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [
-   "elektropacēlājs",
-   "reach truck",
-   "noliktava",
-   "nakts darbs",
-   "loģistika",
-   "palešu pārvietošana"
-  ],
-  "firstSeen": "2026-10-09T17:01:08+00:00"
- },
- {
-  "id": 1667583,
-  "positionTitle": "Pasūtījumu komplektētājs/-a Termo noliktava (+2 °... +6 °, darbs naktī)",
-  "employerName": "Baltic Logistic Solutions SIA",
-  "salaryFrom": 1739.0,
-  "salaryTo": 2565.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-09T13:14:52.099+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [
-   "komplektētājs",
-   "noliktava",
-   "nakts maiņa",
-   "logistika"
-  ],
-  "firstSeen": "2026-10-09T17:01:08+00:00"
- },
- {
   "id": 1667576,
   "positionTitle": "Informācijas sistēmu drošības pārvaldnieks(-ce)",
   "employerName": "Gaso AS",
@@ -10590,27 +7981,6 @@
    "CISSP",
    "ISO/IEC 27001",
    "kiberdrošība"
-  ],
-  "firstSeen": "2026-10-09T17:01:08+00:00"
- },
- {
-  "id": 1667580,
-  "positionTitle": "Pasūtījumu komplektētājs/-a (darbs naktīs)",
-  "employerName": "Baltic Logistic Solutions SIA",
-  "salaryFrom": 1589.0,
-  "salaryTo": 2415.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-09T13:13:30.873+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [
-   "pasūtījumu komplektētājs",
-   "noliktavas darbs",
-   "nakts darbs",
-   "loģistika",
-   "fizisks darbs"
   ],
   "firstSeen": "2026-10-09T17:01:08+00:00"
  },
@@ -10658,38 +8028,6 @@
   "firstSeen": "2026-10-09T17:01:08+00:00"
  },
  {
-  "id": 1667561,
-  "positionTitle": "Jurists/-e",
-  "employerName": "WorkingDay Latvia",
-  "salaryFrom": 3000.0,
-  "salaryTo": 3500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-09T12:56:45.839+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-09T23:59:59.999+00:00",
-  "keywords": [
-   "grand credit"
-  ],
-  "firstSeen": "2026-10-09T17:01:08+00:00"
- },
- {
-  "id": 1667562,
-  "positionTitle": "Fullstack Developer (.NET/Angular) - Customer Portal",
-  "employerName": "Atea Global Services",
-  "salaryFrom": 3500.0,
-  "salaryTo": 4000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-09T12:53:03.918+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-09T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-09T17:01:08+00:00"
- },
- {
   "id": 1667560,
   "positionTitle": "Personāla departamenta personāla speciālists  darbam personāla lietvedības jomā",
   "employerName": "Valsts kase",
@@ -10705,24 +8043,6 @@
   "firstSeen": "2026-10-09T17:01:08+00:00"
  },
  {
-  "id": 1667553,
-  "positionTitle": "Senior Full Stack Programmētājs/a",
-  "employerName": "Printseekers SIA",
-  "salaryFrom": 4000.0,
-  "salaryTo": 5000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-09T12:44:46.067+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-24T23:59:59.999+00:00",
-  "keywords": [
-   "Vecākais programmētājs/a",
-   "Senior programmētājs/a"
-  ],
-  "firstSeen": "2026-10-09T17:01:08+00:00"
- },
- {
   "id": 1667544,
   "positionTitle": "ĒKU SISTĒMU INŽENIERIS Infrastruktūras pārvaldīšanas daļā",
   "employerName": "Paula Stradiņa Klīniskā universitātes slimnīca",
@@ -10734,21 +8054,6 @@
   "publishDate": "2026-10-09T12:27:54.888+00:00",
   "renewedDate": null,
   "expirationDate": "2026-11-09T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-09T17:01:08+00:00"
- },
- {
-  "id": 1667520,
-  "positionTitle": "Tāmēšanas nodaļas vadītājs/-a",
-  "employerName": "Pillar Contractor, SIA",
-  "salaryFrom": 4500.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-09T11:56:40.188+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-03T23:59:59.999+00:00",
   "keywords": [],
   "firstSeen": "2026-10-09T17:01:08+00:00"
  },
@@ -10814,21 +8119,6 @@
   "firstSeen": "2026-10-09T17:01:08+00:00"
  },
  {
-  "id": 1667505,
-  "positionTitle": "AVK un ŪK BŪVDARBU vadītājs (Rīgā)",
-  "employerName": "LNK INDUSTRIES AS",
-  "salaryFrom": 2500.0,
-  "salaryTo": 3800.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-09T11:35:13.271+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-09T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-09T17:01:08+00:00"
- },
- {
   "id": 1667487,
   "positionTitle": "Ēku inženiertīklu speciālists",
   "employerName": "Industry Service Partner SIA",
@@ -10853,23 +8143,6 @@
    "ventilācija",
    "apkure",
    "elektroapgāde"
-  ],
-  "firstSeen": "2026-10-09T17:01:08+00:00"
- },
- {
-  "id": 1667471,
-  "positionTitle": "Grāmatvedis/-e",
-  "employerName": "WorkingDay Latvia",
-  "salaryFrom": 2300.0,
-  "salaryTo": 2600.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-09T11:12:41.275+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-09T23:59:59.999+00:00",
-  "keywords": [
-   "grand credit"
   ],
   "firstSeen": "2026-10-09T17:01:08+00:00"
  },
@@ -10921,21 +8194,6 @@
   "firstSeen": "2026-10-09T17:01:08+00:00"
  },
  {
-  "id": 1667463,
-  "positionTitle": "Būvdarbu vadītāja palīgs/-dze (AVK un ŪK darbiem) Rīgā",
-  "employerName": "LNK INDUSTRIES AS",
-  "salaryFrom": 2000.0,
-  "salaryTo": 2700.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-09T10:49:55.405+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-09T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-09T17:01:08+00:00"
- },
- {
   "id": 1667453,
   "positionTitle": "Tehniskā atbalsta inženieris/-e",
   "employerName": "Tet SIA",
@@ -10948,60 +8206,6 @@
   "renewedDate": null,
   "expirationDate": "2026-10-22T23:59:59.999+00:00",
   "keywords": [],
-  "firstSeen": "2026-10-09T17:01:08+00:00"
- },
- {
-  "id": 1667439,
-  "positionTitle": "Veterinārārsts/-e",
-  "employerName": "GABĪTIS SIA",
-  "salaryFrom": 15.0,
-  "salaryTo": null,
-  "hourlySalary": true,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-09T10:36:06.105+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-09T23:59:59.999+00:00",
-  "keywords": [
-   "Veterinārārsts"
-  ],
-  "firstSeen": "2026-10-09T17:01:08+00:00"
- },
- {
-  "id": 1667422,
-  "positionTitle": "Jurists",
-  "employerName": "Baltic Brabant Properties SIA",
-  "salaryFrom": 2500.0,
-  "salaryTo": 2800.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-09T10:29:10.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-31T23:59:59.999+00:00",
-  "keywords": [
-   "Jurists"
-  ],
-  "firstSeen": "2026-10-09T17:01:08+00:00"
- },
- {
-  "id": 1667414,
-  "positionTitle": "Vecākais iekārtu mehāniķis",
-  "employerName": "Gaļas Nams-Ādaži SIA",
-  "salaryFrom": 2500.0,
-  "salaryTo": 3500.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-09T09:20:31.068+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-09T23:59:59.999+00:00",
-  "keywords": [
-   "Mehāniķis",
-   "Ražošanas mehāniķis",
-   "Iekārtu mehāniķis",
-   "Vecākais mehāniķis"
-  ],
   "firstSeen": "2026-10-09T17:01:08+00:00"
  },
  {
@@ -11046,27 +8250,6 @@
    "enerģētika",
    "elektroenerģija",
    "tehniskās zinātnes"
-  ],
-  "firstSeen": "2026-10-09T09:10:53+00:00"
- },
- {
-  "id": 1667392,
-  "positionTitle": "Montieris/-e",
-  "employerName": "ArtElektro SIA",
-  "salaryFrom": 1500.0,
-  "salaryTo": 2000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-09T09:03:46.870+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [
-   "montieris",
-   "montiere",
-   "tehniskās zinātnes",
-   "pakalpojumi",
-   "ArtElektro"
   ],
   "firstSeen": "2026-10-09T09:10:53+00:00"
  },
@@ -11331,32 +8514,6 @@
   "firstSeen": "2026-10-09T09:10:53+00:00"
  },
  {
-  "id": 1667334,
-  "positionTitle": "Galvenā grāmatveža vietnieks (uz noteiktu laiku ~ 1,5 gads)",
-  "employerName": "Mogotel development holding SIA",
-  "salaryFrom": 2800.0,
-  "salaryTo": 3000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-09T07:28:02.540+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-09T23:59:59.999+00:00",
-  "keywords": [
-   "vecākais grāmatvedis",
-   "grāmatvedis",
-   "accountant",
-   "senior accountant",
-   "finanses",
-   "finance",
-   "deputy",
-   "chief",
-   "vietnieks",
-   "galvenā grāmatveža"
-  ],
-  "firstSeen": "2026-10-09T09:10:53+00:00"
- },
- {
   "id": 1667341,
   "positionTitle": "Komandas vadītājs/ Team leader",
   "employerName": "AG-13 Interiors GmbH",
@@ -11434,66 +8591,6 @@
   "firstSeen": "2026-10-09T09:10:53+00:00"
  },
  {
-  "id": 1667332,
-  "positionTitle": "Mehāniķis/-e",
-  "employerName": "KRONUS SIA",
-  "salaryFrom": 1700.0,
-  "salaryTo": 2000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-09T07:13:13.839+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-09T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-09T09:10:53+00:00"
- },
- {
-  "id": 1667321,
-  "positionTitle": "Vecākais izstrādātājs - .NET/Angular",
-  "employerName": "Visma Enterprise SIA",
-  "salaryFrom": 4000.0,
-  "salaryTo": 5000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-09T07:05:19.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-26T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-09T09:10:53+00:00"
- },
- {
-  "id": 1666807,
-  "positionTitle": "Ēku celtnieks",
-  "employerName": "Pro Ceva SIA",
-  "salaryFrom": 1600.0,
-  "salaryTo": 2800.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "FULLY_REMOTE",
-  "publishDate": "2026-10-09T06:50:10.767+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-09T23:59:59.999+00:00",
-  "keywords": [
-   "celtnieks",
-   "namdaris",
-   "būvnieks",
-   "darbs",
-   "strādnieks",
-   "būvstrādnieks",
-   "būvstrādnieka vakances",
-   "ēku celtnieka vakances",
-   "namdara vakances",
-   "celtnieka vakances",
-   "meistars",
-   "meistara vakances",
-   "meklēju darbu",
-   "darbs strauji augošā uzņēmumā"
-  ],
-  "firstSeen": "2026-10-09T09:10:53+00:00"
- },
- {
   "id": 1667296,
   "positionTitle": "Digital Campaign Delivery Specialist",
   "employerName": "Roche Latvija, SIA",
@@ -11527,56 +8624,6 @@
   "renewedDate": null,
   "expirationDate": "2026-11-09T23:59:59.999+00:00",
   "keywords": [],
-  "firstSeen": "2026-10-09T09:10:53+00:00"
- },
- {
-  "id": 1667268,
-  "positionTitle": "Tirdzniecības pārstāvis/-e ( Kurzemē)",
-  "employerName": "Visidarbi.lv klients",
-  "salaryFrom": 1227.0,
-  "salaryTo": 3000.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-09T05:50:47.654+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-22T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-09T09:10:53+00:00"
- },
- {
-  "id": 1667264,
-  "positionTitle": "Elektromehāniķis/-e",
-  "employerName": "Visidarbi.lv klients",
-  "salaryFrom": 1670.0,
-  "salaryTo": 2329.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-09T05:49:14.352+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-22T23:59:59.999+00:00",
-  "keywords": [
-   "elektrikis",
-   "mehanikis"
-  ],
-  "firstSeen": "2026-10-09T09:10:53+00:00"
- },
- {
-  "id": 1667262,
-  "positionTitle": "Tirdzniecības pārstāvis/-e ( Zemgalē )",
-  "employerName": "Visidarbi.lv klients",
-  "salaryFrom": 1428.0,
-  "salaryTo": 3000.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-09T05:48:21.962+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-22T23:59:59.999+00:00",
-  "keywords": [
-   "noteikts laiks"
-  ],
   "firstSeen": "2026-10-09T09:10:53+00:00"
  },
  {
@@ -11685,23 +8732,6 @@
    "Excel"
   ],
   "firstSeen": "2026-10-09T09:10:53+00:00"
- },
- {
-  "id": 1620856,
-  "positionTitle": "Auto pārdevējs/-a - konsultants/-e",
-  "employerName": "Legal Support SIA",
-  "salaryFrom": 1500.0,
-  "salaryTo": 3000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T20:51:33.330+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-07T23:59:59.999+00:00",
-  "keywords": [
-   "Auto"
-  ],
-  "firstSeen": "2026-10-09T00:26:00+00:00"
  },
  {
   "id": 1667126,
@@ -11847,1020 +8877,5 @@
    "Finanšu plānošana"
   ],
   "firstSeen": "2026-10-08T19:59:01+00:00"
- },
- {
-  "id": 1667066,
-  "positionTitle": "Galvenais/-ā grāmatvedis/-e",
-  "employerName": "WorkingDay Latvia",
-  "salaryFrom": 3200.0,
-  "salaryTo": 3500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T13:43:30.241+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [
-   "grand credit"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1667062,
-  "positionTitle": "Business Controller",
-  "employerName": "MOLLER AUTO ",
-  "salaryFrom": 2500.0,
-  "salaryTo": 3500.0,
-  "hourlySalary": false,
-  "townId": 621,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T13:42:10.589+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-23T23:59:59.999+00:00",
-  "keywords": [
-   "Biznesa kontrolieris"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1667000,
-  "positionTitle": "Loģistikas speciālists/-e",
-  "employerName": "TRANSIMEX, SIA",
-  "salaryFrom": 2000.0,
-  "salaryTo": 2500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T13:28:50.340+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1667048,
-  "positionTitle": "Grāmatvedis/-e",
-  "employerName": "Mūsa Motors Rīga SIA",
-  "salaryFrom": 2200.0,
-  "salaryTo": 2500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T13:19:45.749+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1667046,
-  "positionTitle": "Konstruktors-tehnologs",
-  "employerName": "MLK houses",
-  "salaryFrom": 2000.0,
-  "salaryTo": 2400.0,
-  "hourlySalary": false,
-  "townId": 559,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-08T13:12:39.076+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [
-   "Konstuktors",
-   "Tehnologs",
-   "Revit",
-   "TopSolid",
-   "AutoCAD"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1667041,
-  "positionTitle": "Engineering Manager II",
-  "employerName": "GoCardless",
-  "salaryFrom": 5333.0,
-  "salaryTo": 8000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-08T13:09:13.875+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [
-   "Engineering",
-   "Manager",
-   "Engineering Manager"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1667036,
-  "positionTitle": "Autoelektriķis",
-  "employerName": "Metsatek SIA",
-  "salaryFrom": 2200.0,
-  "salaryTo": 3000.0,
-  "hourlySalary": false,
-  "townId": 914,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T13:02:04.661+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [
-   "auto",
-   "autoelektriķis",
-   "autoelektrikis"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1667039,
-  "positionTitle": "Ražošanas plūsmas kontrolieris/-e",
-  "employerName": "Manpower",
-  "salaryFrom": 1800.0,
-  "salaryTo": 2400.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T13:02:02.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-09T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1667034,
-  "positionTitle": "Administration Specialist",
-  "employerName": "Datwyler IT Infra SIA",
-  "salaryFrom": 1800.0,
-  "salaryTo": 2000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T12:59:44.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1667035,
-  "positionTitle": "Senior Java Software Engineer - iBudget team",
-  "employerName": "Swedbank AS",
-  "salaryFrom": 3900.0,
-  "salaryTo": 5900.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-08T12:57:55.731+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-23T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1667025,
-  "positionTitle": "Jaunākais/-ā jurists/-e",
-  "employerName": "I-Work Group",
-  "salaryFrom": 1800.0,
-  "salaryTo": 2500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-08T12:55:02.348+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [
-   "jurists",
-   "lawyer",
-   "jaunākais jurists",
-   "jurista palīgs",
-   "juridiskais konsultants",
-   "AML",
-   "AML speciālsts"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1667020,
-  "positionTitle": "Tehniskās drošības speciālists/-e",
-  "employerName": "RĪGAS SILTUMS AS",
-  "salaryFrom": 2500.0,
-  "salaryTo": 2500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-08T12:49:40.212+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-22T23:59:59.999+00:00",
-  "keywords": [
-   "Rīgas Siltums",
-   "Rīga",
-   "Centrs",
-   "drošība",
-   "incidenti",
-   "aizsardzība",
-   "incidentu  izmeklēšana",
-   "izmeklēšana",
-   "tehniskās drošības speciālists",
-   "tehniskā drošība",
-   "videonovērošana",
-   "video",
-   "novērošana",
-   "piekļuves kontrole",
-   "piekļuves",
-   "signalizācija",
-   "apsardze"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1667026,
-  "positionTitle": "Viedo risinājumu produkta vadītājs",
-  "employerName": "Rīgas namu pārvaldnieks SIA",
-  "salaryFrom": 2800.0,
-  "salaryTo": 3100.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-08T12:49:25.705+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [
-   "inženierkomunikācijas",
-   "projektu",
-   "līgumi",
-   "digitālizācija",
-   "produktu vadītājs",
-   "projektu vadība",
-   "metbox",
-   "viedie skaitītāji",
-   "PRINCE2",
-   "PMP",
-   "produkta attīstība"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1667009,
-  "positionTitle": "Uzņēmuma direktors/-e",
-  "employerName": "EMJ METĀLS SIA",
-  "salaryFrom": 5500.0,
-  "salaryTo": 10000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T12:31:35.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [
-   "EMJ Metāls"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1667006,
-  "positionTitle": "Procesu kvalitātes vadības inženieris/-e",
-  "employerName": "EMJ METĀLS SIA",
-  "salaryFrom": 2500.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T12:10:37.255+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666997,
-  "positionTitle": "Enerģijas pārdošanas menedžeris",
-  "employerName": "KNESS BALTIC SIA",
-  "salaryFrom": 2800.0,
-  "salaryTo": 3500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T12:02:43.512+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666975,
-  "positionTitle": "Radiologs pilnai vai nepilnai slodzei",
-  "employerName": "Rīgas Austrumu klīniskā universitātes slimnīca SIA",
-  "salaryFrom": 15.87,
-  "salaryTo": 16.67,
-  "hourlySalary": true,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T11:17:03.020+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666973,
-  "positionTitle": "360 TV ziņu producents/-e",
-  "employerName": "Tet SIA",
-  "salaryFrom": 19.0,
-  "salaryTo": 19.0,
-  "hourlySalary": true,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T11:14:01.422+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [
-   "DarbsMelioMedia",
-   "Helio Media",
-   "Producents",
-   "TV",
-   "Ziņas"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666967,
-  "positionTitle": "Mārketinga projektu vadītājs /-a",
-  "employerName": "Latvijas Sabiedriskais medijs",
-  "salaryFrom": 2000.0,
-  "salaryTo": 2200.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T11:10:25.740+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-30T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666957,
-  "positionTitle": "ATBILDĪGĀ MĀSA 39. Sirds ķirurģijas anestezioloģijas un intensīvās terapijas nodaļā",
-  "employerName": "Paula Stradiņa Klīniskā universitātes slimnīca",
-  "salaryFrom": 2200.0,
-  "salaryTo": 2200.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T11:04:15.252+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666939,
-  "positionTitle": "Kvalitātes inženieris",
-  "employerName": "Primekss SIA",
-  "salaryFrom": 3000.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-08T10:48:58.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-07T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666562,
-  "positionTitle": "SAP Master datu speciālists/-e",
-  "employerName": "Orkla Latvija SIA",
-  "salaryFrom": 2000.0,
-  "salaryTo": 2100.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-08T10:45:23.470+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [
-   "Orkla Latvija SIA"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666935,
-  "positionTitle": "Būvniecības projektu vadītājs/-a",
-  "employerName": "CV-Online Recruitment",
-  "salaryFrom": 5030.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 621,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T10:45:00.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [
-   "Būvniecības projektu vadītājs",
-   "būvniecības projektu vadītāja",
-   "construction",
-   "būvniecība",
-   "Sirin Development",
-   "vadība",
-   "projektu vadība",
-   "manager",
-   "tehniskās zinātnes",
-   "technical"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666878,
-  "positionTitle": "Java/Angular programmētājs/-a",
-  "employerName": "Autentica SIA",
-  "salaryFrom": 2000.0,
-  "salaryTo": 3500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-08T10:43:31.315+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-25T23:59:59.999+00:00",
-  "keywords": [
-   "angular",
-   "java",
-   "frontend",
-   "programmētājs"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666923,
-  "positionTitle": "Būvdarbu vadītājs/-a",
-  "employerName": "CV-Online Recruitment",
-  "salaryFrom": 3850.0,
-  "salaryTo": 4280.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T10:36:06.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [
-   "būvniecība",
-   "būvniecības",
-   "būvdarbu",
-   "construction",
-   "vadītājs",
-   "vadītāja",
-   "sirin",
-   "sirin development",
-   "development",
-   "autoCad",
-   "industriālo"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666885,
-  "positionTitle": "Projektētājs",
-  "employerName": "Arka B SIA",
-  "salaryFrom": 1740.0,
-  "salaryTo": 2040.0,
-  "hourlySalary": false,
-  "townId": 553,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T10:29:42.718+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-31T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666918,
-  "positionTitle": "Tāmētājs/-a",
-  "employerName": "UPB AS",
-  "salaryFrom": 1500.0,
-  "salaryTo": 2200.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T10:29:07.909+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666907,
-  "positionTitle": "Vistas gaļas sadalītājs-/a",
-  "employerName": "TIM-T SIA",
-  "salaryFrom": 1500.0,
-  "salaryTo": 2300.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-08T10:18:40.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [
-   "vairumnieks",
-   "vakance",
-   "darbs",
-   "produkti",
-   "rīga",
-   "tirdzniecība"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666904,
-  "positionTitle": "Elektroenerģijas tirgus operāciju menedžeris",
-  "employerName": "KNESS BALTIC SIA",
-  "salaryFrom": 3500.0,
-  "salaryTo": 4500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T10:15:12.802+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [
-   "Iepirkšana",
-   "Pārdošana",
-   "Elektroenerģija",
-   "NordPool",
-   "Tirdzniecība",
-   "Atjaunojama enerģija"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666899,
-  "positionTitle": "Legal Counsel EMEA",
-  "employerName": "ALLNEX",
-  "salaryFrom": 3300.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-08T10:02:06.757+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666890,
-  "positionTitle": "Stikloto konstrukciju inženieris/-e  (darba vieta Mārupē)",
-  "employerName": "ALUKON SIA",
-  "salaryFrom": 2000.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 621,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T09:41:13.356+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666879,
-  "positionTitle": "Galvenā/-ais grāmatvede/-is apģērbu veikalā KOKOS",
-  "employerName": "SIA KOKOS",
-  "salaryFrom": 3000.0,
-  "salaryTo": 3450.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T09:32:21.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666883,
-  "positionTitle": "Klientu attiecību speciālists/-e",
-  "employerName": "INTERGAZ SIA",
-  "salaryFrom": 1800.0,
-  "salaryTo": 3500.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T09:24:09.633+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666876,
-  "positionTitle": "Head of IT & Business Technology (Baltics)",
-  "employerName": "Teamence SIA",
-  "salaryFrom": 6000.0,
-  "salaryTo": 8000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-08T09:14:54.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666875,
-  "positionTitle": "Vadošais/-ā datu bāzes administratos/-e (ORACLE (Linux))",
-  "employerName": "Latvijas Universitāte (LU)",
-  "salaryFrom": 2000.0,
-  "salaryTo": 3000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-08T09:06:43.607+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-05T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666865,
-  "positionTitle": "Vājstrāvu sistēmu montieris",
-  "employerName": "SINT SIA",
-  "salaryFrom": 1600.0,
-  "salaryTo": 2900.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T09:01:53.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666868,
-  "positionTitle": "Vadošais/-ā IT administrators/-e (Linux un VMware)",
-  "employerName": "Latvijas Universitāte (LU)",
-  "salaryFrom": 2000.0,
-  "salaryTo": 3000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-08T09:01:15.143+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-05T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666866,
-  "positionTitle": "IT projektu vadītājs/-a",
-  "employerName": "WorkingDay Latvia",
-  "salaryFrom": 3700.0,
-  "salaryTo": 4200.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-08T08:54:34.663+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [
-   "lmt"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666864,
-  "positionTitle": "IT Projektu vadītājs/-a / IT Project Manager",
-  "employerName": "Suppline SIA",
-  "salaryFrom": 3700.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-08T08:46:47.859+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666848,
-  "positionTitle": "Jurists/-e",
-  "employerName": "CV-Online Recruitment klients",
-  "salaryFrom": 2500.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T08:21:38.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-22T23:59:59.999+00:00",
-  "keywords": [
-   "jurists",
-   "jurist",
-   "law",
-   "jurisprudence",
-   "tieslietas",
-   "lawyer"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666846,
-  "positionTitle": "Ceļu būvinženiera palīgs/-dz",
-  "employerName": "Mārupes novada pašvaldība",
-  "salaryFrom": 1880.0,
-  "salaryTo": 2174.0,
-  "hourlySalary": false,
-  "townId": 621,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T08:17:44.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-22T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666844,
-  "positionTitle": "Būvniecības nodaļas vadītājs/-a",
-  "employerName": "Mārupes novada pašvaldība",
-  "salaryFrom": 2921.0,
-  "salaryTo": 3377.0,
-  "hourlySalary": false,
-  "townId": 621,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T08:15:41.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-22T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666843,
-  "positionTitle": "Ēku konstrukciju būvinženieris/-e",
-  "employerName": "Firma L4 SIA",
-  "salaryFrom": 2000.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T08:11:41.467+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666840,
-  "positionTitle": "Būvinženieris/-e",
-  "employerName": "Mārupes novada pašvaldība",
-  "salaryFrom": 2347.0,
-  "salaryTo": 2714.0,
-  "hourlySalary": false,
-  "townId": 621,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T08:08:11.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-22T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666835,
-  "positionTitle": "Systems / Infrastructure Engineer",
-  "employerName": "INBOKSS SIA",
-  "salaryFrom": 3500.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T08:01:46.980+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666834,
-  "positionTitle": "Arhitekts/-e",
-  "employerName": "Firma L4 SIA",
-  "salaryFrom": 2200.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T08:00:50.930+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666831,
-  "positionTitle": "Senior Payroll Accountant",
-  "employerName": "ECOMMPAY LIMITED Latvijas filiāle",
-  "salaryFrom": 2000.0,
-  "salaryTo": 2800.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-08T07:58:40.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-07T23:59:59.999+00:00",
-  "keywords": [
-   "payroll",
-   "accountant",
-   "salary",
-   "salaries",
-   "calculation",
-   "psp",
-   "fintech",
-   "payments"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666815,
-  "positionTitle": "Ševpāvars",
-  "employerName": "SEOVILLAGE SIA",
-  "salaryFrom": 3000.0,
-  "salaryTo": 5000.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T07:45:59.497+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666799,
-  "positionTitle": "Vecākais/-ā grāmatvedis/-e",
-  "employerName": "LP Consulting SIA",
-  "salaryFrom": 1800.0,
-  "salaryTo": 2200.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T07:26:00.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666797,
-  "positionTitle": "Mārketinga komunikācijas vadītājs/-a televīzijas un satura pakalpojumiem",
-  "employerName": "Tet SIA",
-  "salaryFrom": 1800.0,
-  "salaryTo": 2200.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-08T07:22:45.488+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [
-   "DarbsTet",
-   "Mārketings",
-   "Komunikācija"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666781,
-  "positionTitle": "Maketētājs/a",
-  "employerName": "Pro Vape SIA",
-  "salaryFrom": 2100.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T07:07:16.720+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666779,
-  "positionTitle": "Kvalitātes kontrolieris/e (NDT)",
-  "employerName": "EAST METAL SIA",
-  "salaryFrom": 1500.0,
-  "salaryTo": 2200.0,
-  "hourlySalary": false,
-  "townId": 550,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T07:00:29.480+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [
-   "Kvalitāte, kvalitātes kotrolieris, kvalitātes speciālists, kvalitātes inspektors"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666758,
-  "positionTitle": "Vecākais speciālists transporta materiāltehniskā nodrošinājuma jomā",
-  "employerName": "Valsts aizsardzības loģistikas un iepirkumu centrs",
-  "salaryFrom": 1930.0,
-  "salaryTo": 2110.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T06:42:50.966+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-21T23:59:59.999+00:00",
-  "keywords": [],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666723,
-  "positionTitle": "IT sistēmu administrators",
-  "employerName": "Trialto Latvia SIA",
-  "salaryFrom": 1800.0,
-  "salaryTo": 2400.0,
-  "hourlySalary": false,
-  "townId": null,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-08T06:24:14.338+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-08T23:59:59.999+00:00",
-  "keywords": [
-   "Sistēmadministrators",
-   "IT",
-   "helpdesk"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666746,
-  "positionTitle": "Servisa inženieris/-e",
-  "employerName": "CV-Online Recruitment",
-  "salaryFrom": 1900.0,
-  "salaryTo": 2300.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-08T06:22:25.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-30T23:59:59.999+00:00",
-  "keywords": [
-   "Servisa inženieries",
-   "Servisa inženiere",
-   "tehniskās zinātnes",
-   "inženierzinātnes",
-   "būvniecība",
-   "ražošana",
-   "Filter Grupa Sia",
-   "Rīga",
-   "mehatronika",
-   "mehatroniķis",
-   "inženieris",
-   "inženiere",
-   "servisa palīgs",
-   "servisa darbinieks"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1666745,
-  "positionTitle": "Civiltiesiskās atbildības un kravu apdrošināšanas risku parakstītājs/-a",
-  "employerName": "BALTA AAS",
-  "salaryFrom": 2050.0,
-  "salaryTo": 2400.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-08T06:21:39.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-22T23:59:59.999+00:00",
-  "keywords": [
-   "CTA",
-   "kravas",
-   "apdrošināšana",
-   "balta"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
- },
- {
-  "id": 1663240,
-  "positionTitle": "Jurists/-e",
-  "employerName": "SIA Legal balance",
-  "salaryFrom": 2200.0,
-  "salaryTo": null,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-09-30T06:19:53.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-10-30T23:59:59.999+00:00",
-  "keywords": [
-   "jurists",
-   "juriste",
-   "tiesa"
-  ],
-  "firstSeen": "2026-10-08T13:43:56+00:00"
  }
 ]
