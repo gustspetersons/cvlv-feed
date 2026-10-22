@@ -15,3 +15,5 @@ BIGBANK
 VIA SMS
 ARRISE
 BALTENT
+AvaFin
+Cityfinances
