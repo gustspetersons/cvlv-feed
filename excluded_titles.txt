@@ -3,9 +3,76 @@
 # One per line, case-insensitive substring match. Use the word stem so every
 # ending is caught: "automehāniķ" matches "Automehāniķis/-e" and "Automehāniķe".
 # Lines starting with # are ignored.
-automehāniķ
 praktikant
 SEO
 betonētāj
 farmaceit
 bilancspējīg
+# Web/app development stacks outside my direction
+full-stack
+full stack
+fullstack
+.net
+java
+frontend
+front-end
+android
+mobilo lietotņu
+mobile developer
+php
+# Medicine
+ārsts
+ķirurg
+traumatolog
+radiolog
+kardiolog
+anesteziolog
+onkolog
+veterinār
+māsa
+# Construction site and trades
+būvdarbu vadītāj
+tāmēt
+tāmēš
+būvinženier
+konstruktor
+celtniek
+namdar
+galdniek
+ekskavator
+montier
+site manager
+construction manager
+surveyor
+foreman
+brigadier
+# Drivers and warehouse
+autovadītāj
+elektropacēlāj
+komplektētāj
+noliktavas darbiniek
+palīgstrādniek
+# Mechanics and electricians
+mehāniķ
+elektriķ
+atslēdznie
+krāsotāj
+skārdniek
+mehatroni
+# Sales
+pārdevēj
+tirdzniecības pārstāv
+pārdošanas speciālist
+pārdošanas pārstāv
+# Accounting and law
+grāmatvedi
+grāmatvede
+grāmatvež
+accountant
+jurist
+legal counsel
+# Production floor
+cnc
+līniju operator
+iekārtu operator
+iekārtas operator
