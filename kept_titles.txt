@@ -1,0 +1,37 @@
+# Words that keep an ad in the feed when its position title contains them, even
+# if excluded_titles.txt or excluded_keywords.txt would drop it, so a broad stem
+# there can't take out a data role. Only excluded_employers.txt,
+# always_excluded_titles.txt and the pay floor still win. One per line,
+# case-insensitive substring match. Lines starting with # are ignored.
+# Data and analysis
+datu
+data
+analīt
+analīz
+analy
+statisti
+# Science and research
+zinātn
+scient
+pētniek
+researcher
+# Forecasting, econometrics, quantitative and actuarial work
+prognoz
+forecast
+ekonometr
+econometr
+kvantitatīv
+quantitativ
+aktuār
+actuar
+# Machine learning, BI and Python
+mašīnmāc
+machine learning
+power bi
+business intelligence
+python
+# GIS, spelt out: a bare "ģis" or "gis" would also match loģistika and logistics
+ģis speciālist
+gis specialist
+ģeotelpisk
+geospatial

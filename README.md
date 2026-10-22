@@ -29,7 +29,13 @@ An expired ad brought back by a renewal is new, so it does appear, marked
 - **Excluding by word:** add a word stem to `excluded_titles.txt` to match
   position titles only, or to `excluded_keywords.txt` to match titles and
   cv.lv's keywords too ("kasier" catches every ending).
-- All three lists also clear matching ads already in the feed on the next run.
+- **Keeping data roles:** a title with a word from `kept_titles.txt` ("datu",
+  "analīt", "python" …) stays in even when those two lists would drop it, so a
+  broad stem there can't take out a data role.
+- **Excluding regardless:** a word in `always_excluded_titles.txt` drops the ad
+  even when its title has a kept word. It holds fields and levels that stay
+  unwanted as data roles too: marketing, internships, gambling.
+- All the lists also clear matching ads already in the feed on the next run.
 - **Backfill:** Actions → Update feed → Run workflow, with a `since` time, adds
   every fresh ad published since then that isn't in the feed yet.
 - **If it breaks** (cv.lv changes its API), the run fails and GitHub emails a

@@ -25,6 +25,7 @@ import urllib.request
 from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime
 from pathlib import Path
+from typing import NamedTuple
 from xml.sax.saxutils import escape
 from zoneinfo import ZoneInfo
 
@@ -151,11 +152,36 @@ def fold(text):
     return unicodedata.normalize("NFC", text or "").casefold()
 
 
-def load_excluded(path):
+def load_words(path):
+    """Return a word list's entries, folded, without blank lines and comments."""
     if not path.exists():
         return []
     lines = (line.strip() for line in path.read_text(encoding="utf-8").splitlines())
     return [fold(line) for line in lines if line and not line.startswith("#")]
+
+
+class Filters(NamedTuple):
+    """The word lists that decide which ads reach the feed."""
+
+    employers: list[str]  # excluded_employers.txt
+    always_titles: list[str]  # always_excluded_titles.txt
+    kept_titles: list[str]  # kept_titles.txt
+    titles: list[str]  # excluded_titles.txt
+    keywords: list[str]  # excluded_keywords.txt
+
+
+def load_filters():
+    return Filters(
+        employers=load_words(Path("excluded_employers.txt")),
+        always_titles=load_words(Path("always_excluded_titles.txt")),
+        kept_titles=load_words(Path("kept_titles.txt")),
+        titles=load_words(Path("excluded_titles.txt")),
+        keywords=load_words(Path("excluded_keywords.txt")),
+    )
+
+
+def mentions(text, words):
+    return any(word in text for word in words)
 
 
 def pays_too_little(vacancy):
@@ -170,20 +196,28 @@ def pays_too_little(vacancy):
     return low * HOURS_PER_MONTH < MIN_SALARY
 
 
-def is_excluded(vacancy, employers, titles, keywords):
-    """Is the ad underpaid, from an excluded employer, or carrying an excluded word?
+def is_excluded(vacancy, filters):
+    """Should the ad stay out of the feed?
 
-    Words in `titles` match the position title only; words in `keywords` match
-    the title and cv.lv's own keywords for the ad.
+    Always out: underpaid hourly ads, excluded employers and titles with a word
+    from always_excluded_titles.txt. Otherwise a title with a word from
+    kept_titles.txt stays in. Failing that, the ad is out when its title has a
+    word from excluded_titles.txt, or its title or one of cv.lv's own keywords
+    for it has a word from excluded_keywords.txt.
     """
     employer = fold(vacancy.get("employerName"))
     title = fold(vacancy.get("positionTitle"))
     tags = [fold(tag) for tag in vacancy.get("keywords") or []]
-    return (
+    if (
         pays_too_little(vacancy)
-        or any(name in employer for name in employers)
-        or any(word in title for word in titles + keywords)
-        or any(word in tag for word in keywords for tag in tags)
+        or mentions(employer, filters.employers)
+        or mentions(title, filters.always_titles)
+    ):
+        return True
+    if mentions(title, filters.kept_titles):
+        return False
+    return mentions(title, filters.titles + filters.keywords) or any(
+        mentions(tag, filters.keywords) for tag in tags
     )
 
 
@@ -282,11 +316,7 @@ def main():
     seen = load_seen(seen_path)
     first_run = seen is None
     seen = seen or {}
-    excluded = (
-        load_excluded(Path("excluded_employers.txt")),
-        load_excluded(Path("excluded_titles.txt")),
-        load_excluded(Path("excluded_keywords.txt")),
-    )
+    filters = load_filters()
     items = (
         {item["id"]: item for item in json.loads(items_path.read_text("utf-8"))}
         if items_path.exists()
@@ -311,18 +341,18 @@ def main():
     added = 0
     for vacancy_id in dict.fromkeys(feed_ids):
         vacancy = live[vacancy_id]
-        if vacancy_id in items or is_excluded(vacancy, *excluded):
+        if vacancy_id in items or is_excluded(vacancy, filters):
             continue
         items[vacancy_id] = to_item(vacancy, now.isoformat())
         added += 1
 
-    # Exclusions also clear ads already in the feed, so a list edit applies to
+    # The lists also clear ads already in the feed, so a list edit applies to
     # the whole feed on the next run.
     cutoff = now - timedelta(days=FEED_DAYS)
     kept = [
         item
         for item in items.values()
-        if parse_time(item["firstSeen"]) >= cutoff and not is_excluded(item, *excluded)
+        if parse_time(item["firstSeen"]) >= cutoff and not is_excluded(item, filters)
     ]
     kept.sort(key=lambda item: (item["firstSeen"], item["publishDate"]), reverse=True)
 

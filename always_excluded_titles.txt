@@ -1,0 +1,20 @@
+# Words that keep an ad out of the feed when its position title contains them,
+# even if the title also has a word from kept_titles.txt: fields and levels
+# that stay unwanted as data roles too. One per line, case-insensitive
+# substring match. Lines starting with # are ignored.
+# Marketing, marketing data roles included
+mārketing
+marketing
+tirgvedīb
+SEO
+affiliate
+# Internships
+praktikant
+# Gambling (gambling employers go in excluded_employers.txt)
+azartspē
+kazino
+casino
+betting
+sportsbook
+igaming
+sporta likm
