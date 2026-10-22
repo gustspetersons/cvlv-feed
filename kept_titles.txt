@@ -30,6 +30,18 @@ machine learning
 power bi
 business intelligence
 python
+# AI roles, spelt out: a bare "ai" would also match aizsardzība and the If
+# full-stack ads "with AI focus"
+ai rīk
+vibe cod
+ai inženier
+ai engineer
+ai izstrādātāj
+ai developer
+ai aģent
+ai agent
+mākslīgā intelekt
+mākslīgo intelekt
 # GIS, spelt out: a bare "ģis" or "gis" would also match loģistika and logistics
 ģis speciālist
 gis specialist
