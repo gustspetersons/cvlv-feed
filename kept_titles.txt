@@ -50,3 +50,4 @@ geospatial
 # Junior full-stack roles
 junior full
 jaunākais full
+jaunākais/-ā full
