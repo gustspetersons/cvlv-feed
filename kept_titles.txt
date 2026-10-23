@@ -47,3 +47,6 @@ mākslīgo intelekt
 gis specialist
 ģeotelpisk
 geospatial
+# Junior full-stack roles
+junior full
+jaunākais full
