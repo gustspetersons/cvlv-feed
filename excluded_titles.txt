@@ -85,4 +85,5 @@ sabiedrisko attiecīb
 iepirkumu speciālist
 iepirkumu projektu
 iepirkumu vadītāj
-procurement
+procurement specialist
+procurement manager
