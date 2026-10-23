@@ -9,6 +9,9 @@ betonētāj
 farmaceit
 bilancspējīg
 # Web/app development stacks outside my direction
+full-stack
+full stack
+fullstack
 .net
 java
 frontend

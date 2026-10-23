@@ -2,10 +2,6 @@
 # even if the title also has a word from kept_titles.txt: fields and levels
 # that stay unwanted as data roles too. One per line, case-insensitive
 # substring match. Lines starting with # are ignored.
-# Developer
-full-stack
-full stack
-fullstack
 # Marketing, marketing data roles included
 mārketing
 marketing
