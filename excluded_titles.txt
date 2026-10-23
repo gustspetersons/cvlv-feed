@@ -76,3 +76,13 @@ cnc
 līniju operator
 iekārtu operator
 iekārtas operator
+# Communication and PR roles
+komunikācijas speciālist
+komunikācijas projektu
+komunikācijas vadītāj
+sabiedrisko attiecīb
+# Procurement roles
+iepirkumu speciālist
+iepirkumu projektu
+iepirkumu vadītāj
+procurement
