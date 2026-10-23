@@ -41,6 +41,9 @@ vacancy re-posted every week shows up once.
 - **Excluding regardless:** a word in `always_excluded_titles.txt` drops the ad
   even when its title has a kept word. It holds fields and levels that stay
   unwanted as data roles too: marketing, internships, gambling.
+- **Matching** ignores case and Latvian ending marks such as `/-ā`, `/e` and
+  `(-a)`, in titles and in the lists alike, so "jaunākais full" also catches
+  "Jaunākais/-ā full-stack …". Abbreviations such as "/AI" and "(SOC)" stay.
 - All the lists also clear matching ads already in the feed on the next run.
 - **Backfill:** Actions → Update feed → Run workflow, with a `since` time, adds
   every fresh ad published since then that isn't in the feed yet.

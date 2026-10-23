@@ -20,6 +20,7 @@ import csv
 import html
 import http.client
 import json
+import re
 import time
 import unicodedata
 import urllib.error
@@ -52,6 +53,13 @@ PROBLEMS_FILE = Path("problems.txt")
 FEED_DAYS = 14
 HOURS_PER_MONTH = 168  # a 40-hour week, to turn an hourly rate into a monthly one
 RIGA = ZoneInfo("Europe/Riga")
+
+# Latvian gender and plural ending marks, as in "Jaunākais/-ā", "vadītājs / -a",
+# "vadītājs(-a)", "speciālists/e" and "grāmatvedis(e)". After a dash any short
+# ending counts; without one only the common endings do, so abbreviations such
+# as "/AI" and "(SOC)" stay.
+ENDING = r"(?:-\s*[^\W\d_]{1,4}|a|ā|e|s|es|dze)"
+ENDING_MARK = re.compile(rf"\s*/\s*{ENDING}/?(?![^\W\d_])|\s*\(\s*{ENDING}\s*\)")
 
 TOWNS = {543: "Rīga"}
 REMOTE_TYPES = {
@@ -151,8 +159,11 @@ def save_seen(path, seen):
 
 
 def fold(text):
-    """Normalise text for case-insensitive matching of Latvian letters."""
-    return unicodedata.normalize("NFC", text or "").casefold()
+    """Normalise text for matching: case-insensitive for Latvian letters, with
+    ending marks dropped and runs of spaces collapsed, so "jaunākais full" also
+    matches "Jaunākais/-ā full-stack"."""
+    text = unicodedata.normalize("NFC", text or "").casefold()
+    return " ".join(ENDING_MARK.sub(" ", text).split())
 
 
 def load_words(path):
@@ -231,8 +242,8 @@ def posting_order(item):
 def duplicate_key(item):
     """Ads with the same key count as one vacancy posted more than once."""
     return (
-        " ".join(fold(item["employerName"]).split()),
-        " ".join(fold(item["positionTitle"]).split()),
+        fold(item["employerName"]),
+        fold(item["positionTitle"]),
         item["salaryFrom"],
         item["salaryTo"],
     )
