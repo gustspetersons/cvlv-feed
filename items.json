@@ -7944,50 +7944,6 @@
   "firstSeen": "2026-10-14T07:42:34+00:00"
  },
  {
-  "id": 1668884,
-  "positionTitle": "Projektētājs",
-  "employerName": "EcoHeat Technologies SIA",
-  "salaryFrom": 1900.0,
-  "salaryTo": 3500.0,
-  "hourlySalary": false,
-  "townId": 553,
-  "remoteWorkType": "ON_SITE",
-  "publishDate": "2026-10-13T16:47:20.000+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-13T23:59:59.999+00:00",
-  "keywords": [
-   "Vakance",
-   "Projektētājs",
-   "Konstruktors",
-   "SolidWorks",
-   "Autocad",
-   "tehnoloģijas",
-   "Ražošana",
-   "Projektēšana"
-  ],
-  "firstSeen": "2026-10-13T21:18:51+00:00"
- },
- {
-  "id": 1668883,
-  "positionTitle": "Senior DevOps Engineer",
-  "employerName": "SIA Aerones Engineering",
-  "salaryFrom": 4000.0,
-  "salaryTo": 6000.0,
-  "hourlySalary": false,
-  "townId": 543,
-  "remoteWorkType": "HYBRID",
-  "publishDate": "2026-10-13T16:06:14.209+00:00",
-  "renewedDate": null,
-  "expirationDate": "2026-11-13T23:59:59.999+00:00",
-  "keywords": [
-   "DevOps",
-   "IT",
-   "AI",
-   "AWS"
-  ],
-  "firstSeen": "2026-10-13T21:18:51+00:00"
- },
- {
   "id": 1667578,
   "positionTitle": "Maršrutu sagatavošanas darbinieks",
   "employerName": "Baltic Logistic Solutions SIA",
