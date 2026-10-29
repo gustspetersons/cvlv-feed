@@ -60,10 +60,12 @@ krāsotāj
 skārdniek
 mehatroni
 # Sales
+sales
+pārdošan
 pārdevēj
 tirdzniecības pārstāv
-pārdošanas speciālist
-pārdošanas pārstāv
+key account
+lielo klientu vadītāj
 # Accounting and law
 grāmatvedi
 grāmatvede
