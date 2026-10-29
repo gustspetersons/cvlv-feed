@@ -18,3 +18,4 @@ BALTENT
 AvaFin
 Cityfinances
 CĒSU ALUS
+Lenoka
